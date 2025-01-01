@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blog_test on 秦国庆</title>
-    <link>//localhost:1313/zh/tags/blog_test/</link>
+    <link>/zh/tags/blog_test/</link>
     <description>Recent content in Blog_test on 秦国庆</description>
     <generator>Hugo -- 0.139.4</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/zh/tags/blog_test/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/zh/tags/blog_test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>字体和公式的display</title>
-      <link>//localhost:1313/zh/tech/testof_mathequation_fontface/</link>
+      <link>/zh/tech/testof_mathequation_fontface/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/zh/tech/testof_mathequation_fontface/</guid>
+      <guid>/zh/tech/testof_mathequation_fontface/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;“Evaluating the employment impact of a mandatory job search program”&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;

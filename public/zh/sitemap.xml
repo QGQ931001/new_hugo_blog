@@ -2,58 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/zh/tags/blog_test/</loc>
+    <loc>/zh/tags/blog_test/</loc>
     <lastmod>2025-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/zh/categories/</loc>
+    <loc>/zh/categories/</loc>
     <lastmod>2025-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/zh/tags/</loc>
+    <loc>/zh/tags/</loc>
     <lastmod>2025-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/zh/tech/</loc>
+    <loc>/zh/tech/</loc>
     <lastmod>2025-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/zh/categories/%E8%B0%83%E8%AF%95/</loc>
+    <loc>/zh/categories/%E8%B0%83%E8%AF%95/</loc>
     <lastmod>2025-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/zh/</loc>
+    <loc>/zh/</loc>
     <lastmod>2025-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/zh/tech/testof_mathequation_fontface/</loc>
+    <loc>/zh/tech/testof_mathequation_fontface/</loc>
     <lastmod>2025-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/zh/tags/r/</loc>
+    <loc>/zh/tags/r/</loc>
     <lastmod>2025-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/zh/tech/yanglingmap/</loc>
+    <loc>/zh/tech/yanglingmap/</loc>
     <lastmod>2025-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/zh/categories/%E7%BB%98%E5%9B%BE/</loc>
+    <loc>/zh/categories/%E7%BB%98%E5%9B%BE/</loc>
     <lastmod>2025-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/zh/life/</loc>
+    <loc>/zh/life/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/zh/posts/</loc>
+    <loc>/zh/posts/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/zh/categories/%E9%A2%86%E5%AF%BC/</loc>
+    <loc>/zh/categories/%E9%A2%86%E5%AF%BC/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/zh/tags/%E5%A6%B3/</loc>
+    <loc>/zh/tags/%E5%A6%B3/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/zh/life/berry2/</loc>
+    <loc>/zh/life/berry2/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/zh/posts/berry/</loc>
+    <loc>/zh/posts/berry/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/zh/about/</loc>
+    <loc>/zh/about/</loc>
   </url><url>
-    <loc>//localhost:1313/archives/</loc>
+    <loc>/archives/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/search/</loc>
+    <loc>/zh/search/</loc>
   </url>
 </urlset>

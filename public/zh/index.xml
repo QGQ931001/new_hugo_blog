@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>秦国庆</title>
-    <link>//localhost:1313/zh/</link>
+    <link>/zh/</link>
     <description>Recent content on 秦国庆</description>
     <generator>Hugo -- 0.139.4</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/zh/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/zh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>字体和公式的display</title>
-      <link>//localhost:1313/zh/tech/testof_mathequation_fontface/</link>
+      <link>/zh/tech/testof_mathequation_fontface/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/zh/tech/testof_mathequation_fontface/</guid>
+      <guid>/zh/tech/testof_mathequation_fontface/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;“Evaluating the employment impact of a mandatory job search program”&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -41,11 +41,11 @@ E\left(Y_{i t}^{0} | P_{E X}, P_{t X}, N D=1, t=1\right)-E\left(Y_{i t}^{0} | P_
     </item>
     <item>
       <title>画一幅我农所在地的道路图</title>
-      <link>//localhost:1313/zh/tech/yanglingmap/</link>
+      <link>/zh/tech/yanglingmap/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/zh/tech/yanglingmap/</guid>
+      <guid>/zh/tech/yanglingmap/</guid>
       <description>&lt;h2 id=&#34;效果展示&#34;&gt;效果展示&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;上图即为最终效果&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/zh/posts//figure/yanglingroad.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;上图即为最终效果&#34; loading=&#34;lazy&#34; src=&#34;/zh/posts//figure/yanglingroad.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;一些必备的工具&#34;&gt;一些必备的工具&lt;/h2&gt;
 &lt;p&gt;一张json格式的我农地图，或者杨陵地图,可从&lt;a href=&#34;https://raw.githubusercontent.com/QGQ931001/git-tutorial/master/yangling_map/yangling.json&#34;&gt;我的github仓库下载&lt;/a&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -226,13 +226,13 @@ E\left(Y_{i t}^{0} | P_{E X}, P_{t X}, N D=1, t=1\right)-E\left(Y_{i t}^{0} | P_
     </item>
     <item>
       <title>致Berry</title>
-      <link>//localhost:1313/zh/life/berry2/</link>
+      <link>/zh/life/berry2/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/zh/life/berry2/</guid>
+      <guid>/zh/life/berry2/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Love You.&lt;/strong&gt;
 &lt;strong&gt;Berry!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/zh/life/image/berry2.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;/zh/life/image/berry2.jpg&#34;&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;</description>
       <content:encoded><![CDATA[<hr>
 <p><strong>Love You.</strong>
@@ -243,13 +243,13 @@ E\left(Y_{i t}^{0} | P_{E X}, P_{t X}, N D=1, t=1\right)-E\left(Y_{i t}^{0} | P_
     </item>
     <item>
       <title>致Berry</title>
-      <link>//localhost:1313/zh/posts/berry/</link>
+      <link>/zh/posts/berry/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/zh/posts/berry/</guid>
+      <guid>/zh/posts/berry/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Love You.&lt;/strong&gt;
 &lt;strong&gt;Berry!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/zh/posts/image/berry.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;/zh/posts/image/berry.jpg&#34;&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;</description>
       <content:encoded><![CDATA[<hr>
 <p><strong>Love You.</strong>
@@ -260,9 +260,9 @@ E\left(Y_{i t}^{0} | P_{E X}, P_{t X}, N D=1, t=1\right)-E\left(Y_{i t}^{0} | P_
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/zh/about/</link>
+      <link>/zh/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/zh/about/</guid>
+      <guid>/zh/about/</guid>
       <description>&lt;h3 id=&#34;欢迎来到本博客&#34;&gt;欢迎来到本博客&lt;/h3&gt;
 &lt;h3 id=&#34;个人旧版主页sitehttpsqgq931001githubio&#34;&gt;个人旧版主页&lt;a href=&#34;https://qgq931001.github.io/&#34;&gt;SITE&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&#34;个人学术简历cvhttpsgiteecomgqishereforyoucvrawmasterresume-zhpdf&#34;&gt;个人学术简历&lt;a href=&#34;https://gitee.com/gqishereforyou/cv/raw/master/resume-zh.pdf&#34;&gt;CV&lt;/a&gt;&lt;/h3&gt;

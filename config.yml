@@ -43,7 +43,7 @@ defaultContentLanguageInSubdir: true
 
 params:
   # env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  defaultTheme: dark # dark, light
+  defaultTheme: auto # dark, light
   disableThemeToggle: true
   # title: '秦国庆的博客' # 主题
   # Content: '我们登上并非我们所选择的舞台,演出并非我们所选择的剧本' # 描述

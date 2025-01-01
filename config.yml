@@ -219,11 +219,11 @@ menu:
   main:
     - identifier: categories
       name: 类别󠀻󠀻󠀻📚
-      url: /categories/
+      url: ./categories/
       weight: 10
     - identifier: tags
       name: 标签🧾
-      url: /tags/
+      url: ./tags/
       weight: 20
     - identifier: archives
       name: 时间线📊
@@ -231,11 +231,11 @@ menu:
       weight: 30
     - identifier: search
       name: 搜索🔎
-      url: /search/
+      url: ./search/
       weight: 40
     - identifier: about    
       name: 关于👨🏼‍🎓
-      url: /about/
+      url: ./about/
       weight: 50
     # - identifier: categories
     #   name: Categories/类别/󠀻󠀻󠀻📚

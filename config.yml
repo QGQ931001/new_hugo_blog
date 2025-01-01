@@ -227,7 +227,7 @@ menu:
       weight: 20
     - identifier: archives
       name: 时间线📊
-      url: ../archives/
+      url: ./archives/
       weight: 30
     - identifier: search
       name: 搜索🔎

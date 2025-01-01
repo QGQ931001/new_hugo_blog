@@ -1,0 +1,329 @@
+# baseURL = ''
+# languageCode = 'en-us'
+# title = '秦国庆'
+# theme = 'PaperMod'
+
+
+baseURL: ""
+title: 秦国庆
+pagination:
+  pagerSize: 8
+theme: PaperMod
+languageCode: zh-cn
+
+enableRobotsTXT: true
+buildDrafts: true
+buildFuture: false
+buildExpired: false
+
+hasCJKLanguage: true # 自动检测是否包含中文日文韩文,如果文章中使用了很多中文引号的话可以开启
+enableInlineShortcodes: true
+enableEmoji: true # 允许使用 Emoji 表情，建议 true
+# googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+# permalinks:
+#   # post: "/:title/"
+#   post: "/:year/:month/:day/:title/"
+# Configure how URLs look like per section.
+permalinks:
+  blog: /:section/:year/:month/:day/:slug/
+
+
+defaultContentLanguage: zh # 最顶部首先展示的语言页面
+defaultContentLanguageInSubdir: true
+
+
+
+
+
+
+params:
+  # env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  defaultTheme: dark # dark, light
+  disableThemeToggle: true
+  # title: '秦国庆的博客' # 主题
+  # Content: '我们登上并非我们所选择的舞台,演出并非我们所选择的剧本' # 描述
+  # keywords: [Blog, PaperMod]
+  # author: ["Me", "Berry"] # multiple authors
+  DateFormat: "2006-01-02" # 将时间格式修改为国内常用格式
+  # showtoc: true # 在每篇文章开头显示目录
+  # contact:
+  #   email: info@example.org
+  #   phone: +1 202-555-1212
+  
+  # subtitle: The Best Widgets on Earth
+  # description: "ExampleSite description"
+
+
+
+  # home-info mode
+  # homeInfoParams:
+  #   Title: "秦国庆的博客"
+  #   Content: "我们登上并非我们所选择的舞台,演出并非我们所选择的剧本"
+
+  # profile-mode
+  # profileMode:
+  #   enabled: true # needs to be explicitly set
+  #   title: ExampleSite
+  #   subtitle: "This is subtitle"
+  #   imageUrl: "<img location>"
+  #   imageWidth: 120
+  #   imageHeight: 120
+  #   imageTitle: my image
+  #   buttons:
+  #     - name: Posts
+  #       url: posts
+  #     - name: Tags
+  #       url: tags
+  profileMode:
+    enabled: true
+    title: "秦国庆的博客"
+    subtitle: "👋欢迎光临 </br> 👇联系方式"
+    imageUrl: /img/logo2.jpg
+    imageWidth: 210
+    imageHeight: 200
+    imageTitle: QGQ
+    buttons:
+      - name: 👨🏻‍💻技术
+        url: tech
+      - name: 📕阅读
+        url: posts
+      - name: 🧳生活
+        url: life
+
+  # images: ["/img/logo2.jpg"]
+  # DateFormat: "January 2, 2006"
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true # 显示复制代码按钮
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  ShowFullTextinRSS: true 
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: true
+  comments: true
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  # ShowShareButtons: true
+  # ShowReadingTime: true
+  # disableSpecialistPost: true
+  displayFullLangName: true
+  # ShowPostNavLinks: true
+  # ShowBreadCrumbs: true
+  # ShowCodeCopyButtons: true
+  hideFooter: false # 隐藏页脚
+  # ShowWordCounts: true
+  # VisitCount: true
+  ShowLastMod: true #显示文章更新时间
+  # ShowToc: true # 显示目录
+  # TocOpen: true # 自动展开目录
+  # comments: true
+  
+  busuanzi:
+    enable: true
+    site_uv: true
+    site_uv_pre: '<i class="fa fa-user"></i>'
+    site_uv_post: ''
+    site_pv: true
+    site_pv_pre: '<i class="fa fa-eye"></i>'
+    site_pv_post: ''
+    page_pv: true
+    page_pv_pre: '<i class="far fa-eye fa-fw"></i>'
+    page_pv_post: ''
+
+
+
+
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "/img/favicon_logosc/favicon.ico"
+    favicon16x16: "/img/favicon_logosc/favicon-16x16.png"
+    favicon32x32: "/img/favicon_logosc/favicon-32x32.png"
+    apple_touch_icon: "/img/favicon_logosc/apple-touch-icon.png"
+    safari_pinned_tab: "/img/favicon_logosc/android-chrome-192x192.png"
+  # 各种图标的地址，如果没有就全部注释掉
+  # assets:
+    # favicon: "<link / abs url>"
+    # favicon16x16: "<link / abs url>"
+    # favicon32x32: "<link / abs url>"
+    # apple_touch_icon: "<link / abs url>"
+    # safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "秦国庆的博客"
+    icon: /img/label.png
+    iconHeight: 35
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/QGQ931001"
+    - name: site
+      url:  "https://qgq931001.github.io/"
+    - name: bilibili
+      url: "https://space.bilibili.com/59527658"
+    - name: wechat
+      url: "https://gitee.com/gqishereforyou/cv/raw/master/mmqrcode1735719779047.png"
+    - name: QQ
+      url: "https://gitee.com/gqishereforyou/cv/raw/master/qrcode_1735719804323.jpg"
+    - name: email
+      url: "mailto:zhupaiqgq@nwafu.edu.cn"
+    - name: RSS
+      url: "index.xml"
+
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: "XYZabc"
+  #   bing:
+  #     SiteVerificationTag: "XYZabc"
+  #   yandex:
+  #     SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/<path_to_repo>/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+
+    # twikoo:
+    #   version: 1.4.11
+
+menu:
+  main:
+    - identifier: categories
+      name: 类别󠀻󠀻󠀻📚
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: 标签🧾
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: 时间线📊
+      url: ../archives/
+      weight: 30
+    - identifier: search
+      name: 搜索🔎
+      url: /search/
+      weight: 40
+    - identifier: about    
+      name: 关于👨🏼‍🎓
+      url: /about/
+      weight: 50
+    # - identifier: categories
+    #   name: Categories/类别/󠀻󠀻󠀻📚
+    #   url: /categories/
+    #   weight: 10
+    # - identifier: tags
+    #   name: Tags/标签/🧾
+    #   url: /tags/
+    #   weight: 20
+    # - identifier: archives
+    #   name: Archives/时间线/📊
+    #   url: ../archives/
+    #   weight: 30
+    # - identifier: search
+    #   name: Search/搜索/🔎
+    #   url: /search/
+    #   weight: 40
+    # - identifier: about    
+    #   name: About/关于/👨🏼‍🎓🏊🏼🏋🏻‍♀️
+    #   url: ../about/
+    #   weight: 50
+    # - identifier: example
+    #   name: example.org
+    #   url: https://example.org
+    #   weight: 40
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON 
+
+
+# 关于语法高亮，具体使用可查看https://gohugo.io/content-management/syntax-highlighting/
+PygmentsCodeFences: true                      # Enable syntax highlighting with GitHub flavoured code fences
+PygmentsUseClasses: true                      # Use CSS classes to format highlighted code
+PygmentsCodefencesGuessSyntax: true           #
+pygmentsCodeFences: true
+pygmentsOptions: "linenos=table"              # 开启显示行号
+pygmentsStyle: tango            
+
+markup:
+  highlight:
+    # noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+    # anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    # noClasses: false
+    # style: monokai
+    style: darcula
+    # codeFences：代码围栏功能，这个功能一般都要设为 true 的，不然很难看，就是干巴巴的-代码文字，没有颜色。
+    # guessSyntax：猜测语法，这个功能建议设置为 true, 如果你没有设置要显示的语言则会自动匹配。
+    # hl_Lines：高亮的行号，一般这个不设置，因为每个代码块我们可能希望让高亮的地方不一样。
+    # lineNoStart：行号从编号几开始，一般从 1 开始。
+    # lineNos：是否显示行号，我比较喜欢显示，所以我设置的为 true.
+    # lineNumbersInTable：使用表来格式化行号和代码,而不是 标签。这个属性一般设置为 true.
+    # noClasses：使用 class 标签，而不是内嵌的内联样式
+    goldmark:
+        renderer:
+            unsafe: true # HUGO 默认转义 Markdown 文件中的 HTML 代码，如需开启的话
+
+
+privacy:
+    vimeo:
+        disabled: false
+        simple: true
+    twitter:
+        disabled: false
+        enableDNT: true
+        simple: true
+    instagram:
+        disabled: false
+        simple: true
+    youtube:
+        disabled: false
+        privacyEnhanced: true
+
+services:
+    instagram:
+        disableInlineCSS: true
+    twitter:
+        disableInlineCSS: true
+
+

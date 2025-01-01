@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 秦国庆</title>
+    <link>//localhost:1313/zh/posts/</link>
+    <description>Recent content in Posts on 秦国庆</description>
+    <generator>Hugo -- 0.139.4</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/zh/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>致Berry</title>
+      <link>//localhost:1313/zh/posts/berry/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/zh/posts/berry/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Love You.&lt;/strong&gt;
+&lt;strong&gt;Berry!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/zh/posts/image/berry.jpg&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
+      <content:encoded><![CDATA[<hr>
+<p><strong>Love You.</strong>
+<strong>Berry!</strong></p>
+<p><img loading="lazy" src="/zh/posts/image/berry.jpg"></p>
+<!-- raw HTML omitted -->
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

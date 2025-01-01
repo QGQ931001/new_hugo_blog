@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>秦国庆</title>
+    <link>//localhost:1313/zh/</link>
+    <description>Recent content on 秦国庆</description>
+    <generator>Hugo -- 0.139.4</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>致Berry</title>
+      <link>//localhost:1313/zh/posts/berry/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/zh/posts/berry/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Love You.&lt;/strong&gt;
+&lt;strong&gt;Berry!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/zh/posts/image/berry.jpg&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
+      <content:encoded><![CDATA[<hr>
+<p><strong>Love You.</strong>
+<strong>Berry!</strong></p>
+<p><img loading="lazy" src="/zh/posts/image/berry.jpg"></p>
+<!-- raw HTML omitted -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/zh/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/zh/about/</guid>
+      <description>&lt;h3 id=&#34;欢迎来到本博客&#34;&gt;欢迎来到本博客&lt;/h3&gt;
+&lt;h3 id=&#34;个人旧版主页sitehttpsqgq931001githubio&#34;&gt;个人旧版主页&lt;a href=&#34;https://qgq931001.github.io/&#34;&gt;SITE&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;个人学术简历cvhttpsgiteecomgqishereforyoucvrawmasterresume-zhpdf&#34;&gt;个人学术简历&lt;a href=&#34;https://gitee.com/gqishereforyou/cv/raw/master/resume-zh.pdf&#34;&gt;CV&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;西农经管单位主页httpscemnwsuafeducnpubjgxyindexhtm&#34;&gt;西农经管&lt;a href=&#34;https://cem.nwsuaf.edu.cn/pub/jgxy/index.htm&#34;&gt;单位主页&lt;/a&gt;&lt;/h3&gt;</description>
+      <content:encoded><![CDATA[<h3 id="欢迎来到本博客">欢迎来到本博客</h3>
+<h3 id="个人旧版主页sitehttpsqgq931001githubio">个人旧版主页<a href="https://qgq931001.github.io/">SITE</a></h3>
+<h3 id="个人学术简历cvhttpsgiteecomgqishereforyoucvrawmasterresume-zhpdf">个人学术简历<a href="https://gitee.com/gqishereforyou/cv/raw/master/resume-zh.pdf">CV</a></h3>
+<h3 id="西农经管单位主页httpscemnwsuafeducnpubjgxyindexhtm">西农经管<a href="https://cem.nwsuaf.edu.cn/pub/jgxy/index.htm">单位主页</a></h3>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

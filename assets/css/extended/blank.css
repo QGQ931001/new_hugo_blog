@@ -1,0 +1,19 @@
+/*
+This is just a placeholder blank stylesheet so as to support adding custom styles budled with theme's default styles
+
+Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
+*/
+body {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 1.3rem;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.post-content pre,
+code {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 13;
+  line-height: 1.2;
+  max-height: 40rem;
+}

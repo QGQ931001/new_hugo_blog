@@ -32,7 +32,7 @@ cover:
     relative: false
 ---
 
-# <马铃薯与人口>深度阅读笔记 — Nunn & Qian
+
 
 ## 文献信息
 
@@ -46,7 +46,7 @@ cover:
 
 ---
 
-# The Potato's Contribution to Population and Urbanization: Evidence From A Historical Experiment
+# 
 
 ## 引言:马铃薯_改变世界的作物
 

@@ -32,7 +32,7 @@ cover:
     relative: false
 ---
 
-# <玉米与人口>深度阅读笔记 — Chen & Kung
+
 
 ## 文献信息
 
@@ -45,8 +45,6 @@ cover:
 - **难度评估**: 高 - 需要经济学、统计学、计量史学基础
 
 ---
-
-# Of maize and men: the effect of a New World crop on population and economic growth in China
 
 ## 引言:马尔萨斯陷阱与中国
 

@@ -35,7 +35,7 @@ cover:
     relative: false
 ---
 
-# <One Quarter of Humanity>- 深度阅读笔记
+
 
 ## 书籍信息
 - **书名**: One Quarter of Humanity

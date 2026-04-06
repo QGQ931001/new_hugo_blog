@@ -32,7 +32,7 @@ cover:
     relative: false
 ---
 
-# <住房与不平等>深度阅读笔记 — Ioannides & Ngai
+
 
 ## 文献信息
 
@@ -46,7 +46,7 @@ cover:
 
 ---
 
-# Housing and Inequality（住房与不平等）
+# 
 
 ## 引言：住房为何天然与不平等纠缠？
 

@@ -35,7 +35,7 @@ cover:
     relative: false
 ---
 
-# <Studies on the Population of China, 1368-1953>- 深度阅读笔记
+
 
 ## 书籍信息
 - **书名**: Studies on the Population of China, 1368-1953(中国人口研究,1368-1953)

@@ -35,7 +35,7 @@ cover:
     relative: false
 ---
 
-# <The Pattern of the Chinese Past: A Social and Economic Interpretation>- 深度阅读笔记
+# 
 
 ## 书籍信息
 - **书名**: The Pattern of the Chinese Past: A Social and Economic Interpretation(中国过去的模式:社会与经济诠释)

@@ -34,14 +34,12 @@ cover:
 
 # <马铃薯与人口>深度阅读笔记 — Nunn & Qian
 
-## 文献信息
-
-- **标题**: The Potato's Contribution to Population and Urbanization: Evidence From A Historical Experiment
+## 书籍信息
+- **书名**: The Potato's Contribution to Population and Urbanization(马铃薯对人口和城市化的贡献)
 - **作者**: Nathan Nunn(哈佛大学), Nancy Qian(耶鲁大学)
 - **类型**: 论文笔记 / 经济史 / 人口史 / 计量史学
 - **出版年份**: 2011
-- **出版机构/期刊**: The Quarterly Journal of Economics
-- **DOI**: 10.1093/qje/qjr009
+- **出版机构**: The Quarterly Journal of Economics
 - **难度评估**: 高 - 需要经济学、统计学、计量史学基础
 
 ---

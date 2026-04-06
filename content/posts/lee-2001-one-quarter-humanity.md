@@ -5,11 +5,13 @@ lastmod: 2024-04-05
 author: ["QGQ"]
 
 categories:
-- ""
-- "2024-04-05"
+- "历史"
+- "人口"
 
 tags:
-- "2024-04-05"
+- "读书笔记"
+- "人口史"
+- "比较历史学"
 
 description: ""
 summary: ""

@@ -5,11 +5,10 @@ lastmod: 2020-05-26
 author: ["QGQ"]
 
 categories:
-- ""
-- "2020-05-26"
+- "绘图"
 
 tags:
-- "2020-05-26"
+- "R"
 
 description: ""
 summary: ""
@@ -73,7 +72,7 @@ ggplot(data = mpg) +
 p
 ```
 
-![plot of chunk unnamed-chunk-2](/zh/posts/figure_rdata_science/unnamed-chunk-2-1.png)
+![](/zh/posts/figure_rdata_science/unnamed-chunk-2-1.png)
 
 其中`mapping`是映射的意思,在`ggplot()`的`()`中出现的内容将传递之后的绘图函数,`p`保存了绘制好的图形,可以进一步进行美化和调整:
 
@@ -85,7 +84,7 @@ p + theme_minimal(base_family = enfont) +
             axis.title = element_text(size = 12))
 ```
 
-![plot of chunk unnamed-chunk-3](/zh/posts/figure_rdata_science/unnamed-chunk-3-1.png)
+![](/zh/posts/figure_rdata_science/unnamed-chunk-3-1.png)
 可以将一些图片调整的代码存放在`modify`命名的一个对象中:
 
 
@@ -105,7 +104,7 @@ ggplot(data = mpg) +
   modify
 ```
 
-![plot of chunk unnamed-chunk-5](/zh/posts/figure_rdata_science/unnamed-chunk-5-1.png)
+![](/zh/posts/figure_rdata_science/unnamed-chunk-5-1.png)
 
 另外一种展示超越2维属性的方法就是**分面**:
 
@@ -117,7 +116,7 @@ ggplot(data = mpg) +
   modify
 ```
 
-![plot of chunk unnamed-chunk-6](/zh/posts/figure_rdata_science/unnamed-chunk-6-1.png)
+![](/zh/posts/figure_rdata_science/unnamed-chunk-6-1.png)
 
 `facet_wrap()`中的第一个参数是**R**中的一种数据结构,叫作"公式",并非数学意义上的意思.也可以使用2个变量进行分面:
 
@@ -129,7 +128,7 @@ ggplot(data = mpg) +
   modify
 ```
 
-![plot of chunk unnamed-chunk-7](/zh/posts/figure_rdata_science/unnamed-chunk-7-1.png)
+![](/zh/posts/figure_rdata_science/unnamed-chunk-7-1.png)
 
 可以使用占位符`.`来代替`facet_wrap()`第一个参数中的`drv`,效果如下:
 
@@ -141,7 +140,7 @@ ggplot(data = mpg) +
   modify
 ```
 
-![plot of chunk unnamed-chunk-8](/zh/posts/figure_rdata_science/unnamed-chunk-8-1.png)
+![](/zh/posts/figure_rdata_science/unnamed-chunk-8-1.png)
 
 ## 几何对象
 
@@ -171,7 +170,7 @@ head(x)
 smoothScatter(x, xlab = "x1", ylab = "x2")
 ```
 
-![plot of chunk unnamed-chunk-9](/zh/posts/figure_rdata_science/unnamed-chunk-9-1.png)
+![](/zh/posts/figure_rdata_science/unnamed-chunk-9-1.png)
 
 而ggplot2肯定并非只有一类几何对象,比如`geom_smooth`、`geom_line`、`geom_bar`等等,而这些对象生成的图层可以堆叠,比如:
 
@@ -185,7 +184,7 @@ ggplot(data = mpg) +
               show.legend = FALSE)
 ```
 
-![plot of chunk unnamed-chunk-10](/zh/posts/figure_rdata_science/unnamed-chunk-10-1.png)
+![](/zh/posts/figure_rdata_science/unnamed-chunk-10-1.png)
 
 `geom_smooth()`使用单个几何对象表示多行数据(一条曲线),而`geom_bar()`和`geom_point`则是多个几何对象(多个矩形或点),将`geom_smooth()`的`group`属性映射为一个离散变量时,这样`ggplot2`就会为这个分类变量的每个唯一值绘制一个独立的几何对象.
 
@@ -197,7 +196,7 @@ ggplot(data = mpg) +
  )
 ```
 
-![plot of chunk unnamed-chunk-11](/zh/posts/figure_rdata_science/unnamed-chunk-11-1.png)
+![](/zh/posts/figure_rdata_science/unnamed-chunk-11-1.png)
 
 
 也可以为不同的图层指定不同的数据:
@@ -213,7 +212,7 @@ ggplot(data = mpg) +
  )
 ```
 
-![plot of chunk unnamed-chunk-12](/zh/posts/figure_rdata_science/unnamed-chunk-12-1.png)
+![](/zh/posts/figure_rdata_science/unnamed-chunk-12-1.png)
 
 
 ## 统计变换
@@ -226,7 +225,7 @@ ggplot(data = diamonds) +
   geom_bar(mapping = aes(x = cut))
 ```
 
-![plot of chunk unnamed-chunk-13](/zh/posts/figure_rdata_science/unnamed-chunk-13-1.png)
+![](/zh/posts/figure_rdata_science/unnamed-chunk-13-1.png)
 
 条形图
 `x`
@@ -263,7 +262,7 @@ ggplot(data = demo) +
   )
 ```
 
-![plot of chunk unnamed-chunk-14](/zh/posts/figure_rdata_science/unnamed-chunk-14-1.png)
+![](/zh/posts/figure_rdata_science/unnamed-chunk-14-1.png)
 
 也可以改变统计变换的默认映射:
 
@@ -275,7 +274,7 @@ ggplot(data = diamonds) +
   )
 ```
 
-![plot of chunk unnamed-chunk-15](/zh/posts/figure_rdata_science/unnamed-chunk-15-1.png)
+![](/zh/posts/figure_rdata_science/unnamed-chunk-15-1.png)
 
 你可能想要在代码中强调统计变换.例如,你可以使用`stat_summary()`函数将人们的注意力吸引到你计算出的那些摘要统计量上.`stat_summary()`函数为`x`的每个唯一值计算`y`值的摘要统计:
 
@@ -290,6 +289,6 @@ ggplot(data = diamonds) +
   )
 ```
 
-![plot of chunk unnamed-chunk-16](/zh/posts/figure_rdata_science/unnamed-chunk-16-1.png)
+![](/zh/posts/figure_rdata_science/unnamed-chunk-16-1.png)
 
 `ggplot2`提供了20多个统计变换以供你使用.每个统计变换都是一个函数,因此你可以按照通用方式获得帮助,例如`?stat_bin`

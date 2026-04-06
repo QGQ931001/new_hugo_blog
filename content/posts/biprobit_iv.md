@@ -5,11 +5,11 @@ lastmod: 2020-05-25
 author: ["秦国庆"]
 
 categories:
-- ""
-- "如何在双变量Probit中使用工具变量法IV估计"
+- "计量"
+- "内生性问题"
 
 tags:
-- "如何在双变量Probit中使用工具变量法IV估计"
+- "stata"
 
 description: ""
 summary: ""

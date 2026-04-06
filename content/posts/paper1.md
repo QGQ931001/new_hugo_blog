@@ -5,11 +5,11 @@ lastmod: 2020-06-08
 author: ["秦国庆"]
 
 categories:
-- ""
-- "2020-06-08"
+- "公共管理"
+- "政策转移"
 
 tags:
-- "公管"
+- "文献阅读"
 
 description: ""
 summary: ""

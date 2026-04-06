@@ -5,11 +5,10 @@ lastmod: 2022-09-12
 author: ["QGQ"]
 
 categories:
-- ""
-- "2022-09-12"
+- "计量"
 
 tags:
-- "2022-09-12"
+- "学术讲座"
 
 description: ""
 summary: ""

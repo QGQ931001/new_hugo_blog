@@ -66,14 +66,14 @@ cover:
 具体包含实验可行性分析、随机干预策略选择以及潜在作用机制及威胁分析三个部分,详见下图
 
 
-![](/paper_source/1.png)
+![](/zh/posts/paper_source/1.png)
 
 **2.2 结合可获数据识别村庄"母猪保险"覆盖指标与"母猪存栏决策"之间的因果关系,并对识别效果进行有效性检验**
 
 具体包含数据整合、特征性事实提炼、实证分析以及实验有效性分析四个部分,详见下图
 
 
-![](/paper_source/2.png)
+![](/zh/posts/paper_source/2.png)
 
 
 **2.3 因果关系背后的作用机制、长期特征、溢出效应 **
@@ -84,7 +84,7 @@ cover:
 
 
 
-![](/paper_source/3.png)
+![](/zh/posts/paper_source/3.png)
 
 
 &nbsp;
@@ -93,7 +93,7 @@ cover:
 
 文章研究思路如下图所示
 
-![](/paper_source/Diagram1.png)
+![](/zh/posts/paper_source/Diagram1.png)
 
 &nbsp;
 

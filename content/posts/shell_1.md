@@ -5,11 +5,10 @@ lastmod: 2020-05-25
 author: ["秦国庆"]
 
 categories:
-- ""
-- "shell脚本笔记(1)"
+- "编程"
 
 tags:
-- "shell脚本笔记(1)"
+- "shell"
 
 description: ""
 summary: ""

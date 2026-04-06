@@ -12,16 +12,16 @@ tags:
 
 
 
-description: "" # 文章描述，与搜索优化相关
-summary: "" # 文章简单描述，会展示在主页
-weight: # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序
+description: "" # 文章描述,与搜索优化相关
+summary: "" # 文章简单描述,会展示在主页
+weight: # 输入1可以顶置文章,用来给文章展示排序,不填就默认按时间排序
 slug: ""
 draft: false # 是否为草稿
-comments: true
+comments: false
 showToc: true # 显示目录
 TocOpen: true # 自动展开目录
 autonumbering: true # 目录自动编号
-hidemeta: false # 是否隐藏文章的元信息，如发布日期、作者等
+hidemeta: false # 是否隐藏文章的元信息,如发布日期、作者等
 disableShare: true # 底部不显示分享栏
 searchHidden: false # 该页面可以被搜索到
 showbreadcrumbs: true #顶部显示当前路径
@@ -38,7 +38,7 @@ cover:
 ![上图即为最终效果](/zh/posts//figure/yanglingroad.png)
 
 ## 一些必备的工具
-一张json格式的我农地图，或者杨陵地图,可从[我的github仓库下载](https://raw.githubusercontent.com/QGQ931001/git-tutorial/master/yangling_map/yangling.json)
+一张json格式的我农地图,或者杨陵地图,可从[我的github仓库下载](https://raw.githubusercontent.com/QGQ931001/git-tutorial/master/yangling_map/yangling.json)
 
 ```r
 download.file("https://raw.githubusercontent.com/QGQ931001/git-tutorial/master/yangling_map/yangling.json", destfile = "~/文档/yangling.json" )
@@ -46,7 +46,7 @@ download.file("https://raw.githubusercontent.com/QGQ931001/git-tutorial/master/y
 <!-- more -->
 
 ## 绘制路网地图
-导入以下R 包：
+导入以下R 包:
 
 
 ```r
@@ -56,7 +56,7 @@ library(tidyverse)
 library(sf)
 ```
 
-读入杨陵区的数据：
+读入杨陵区的数据:
 
 
 ```r
@@ -79,7 +79,7 @@ ebox
 #> x 107.94598 108.13869
 #> y  34.22145  34.33377
 ```
-提取杨陵区的街道路线：
+提取杨陵区的街道路线:
 
 ```r
 sraw <- dodgr_streetnet(ebox)
@@ -92,7 +92,7 @@ sraw %>%
   write_rds('sraw.rds')
 ```
 
-提取**ebox**和**yl**相交的区域：
+提取**ebox**和**yl**相交的区域:
 
 ```r
 streets <- sraw %>%
@@ -100,7 +100,7 @@ streets <- sraw %>%
   st_intersection(yl)
 ```
 
-然后绘图：
+然后绘图:
 
 
 ```r

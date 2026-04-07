@@ -1,5 +1,5 @@
 ---
-title: "A Practical Guide to Shift-Share Instruments论文笔记 — Borusyak, Hull & Jaravel"
+title: "A Practical Guide to Shift-Share Instruments 论文笔记 — Borusyak, Hull & Jaravel"
 date: 2025-04-06
 lastmod: 2025-04-06
 author: ["QGQ"]

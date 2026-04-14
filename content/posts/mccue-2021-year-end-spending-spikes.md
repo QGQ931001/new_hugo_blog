@@ -49,15 +49,6 @@ cover:
 ---
 
 
-## 文献信息
-- **标题**: Examining year-end spending spikes in the European Economic Area: a comparative study of procurement contracts
-- **作者**: Clifford P. McCue, Eric Prier, Ryan J. Lofaro
-- **年份**: 2021
-- **来源**: Journal of Public Budgeting, Accounting & Financial Management, Vol. 33 No. 5, pp. 513-532
-- **DOI**: 10.1108/JPBAFM-11-2020-0186
-
----
-
 ## 引言(背景和意义)
 
 ### 领域基础知识

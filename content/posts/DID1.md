@@ -1,7 +1,6 @@
 ---
 title: "学术讲座# 中国人民大学经济学院江艇:渐进DID的最新进展"
 date: 2022-08-24
-lastmod: 2022-08-24
 author: ["QGQ"]
 
 categories:
@@ -11,26 +10,8 @@ categories:
 tags:
 - "学术讲座"
 
-description: ""
-summary: ""
-weight:
-slug: ""
 draft: false
-comments: false
-showToc: true
-TocOpen: true
-autonumbering: true
-hidemeta: false
-disableShare: true
-searchHidden: false
-showbreadcrumbs: true
-mermaid: true
 mathjax: true
-cover:
-    image: ""
-    caption: ""
-    alt: ""
-    relative: false
 ---
 
 ## **关于DID因果识别**
@@ -56,8 +37,6 @@ cover:
 - Goodman-Bacon定理:任何一个交错$DID$的双向固定效应模型都可以分解为$K^2$个传统双重差分估计结果的加权平均
 - 导致偏误的原因在于:以晚处理组为处理组,以早处理组为对照组,此时双重差分估计中包含了一项$\Delta ATT$,即早处理组的政策效应存在明显的动态变化
 - 交错$DID$估计出的$\beta$究竟意味着什么?由三部分构成:①方差加权的$ATT$;②方差加权的趋势差异;③$\Delta ATT$
-
-
 
 ## **2. 改进策略_基于事件研究法** 
 

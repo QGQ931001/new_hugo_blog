@@ -1,7 +1,6 @@
 ---
 title: "字体和公式的display"
 date: 2020-05-30
-lastmod: 2020-05-30
 author: ["秦国庆"]
 
 categories:
@@ -10,33 +9,11 @@ categories:
 tags:
 - "blog_test"
 
-description: ""
-summary: ""
-weight:
-slug: ""
 draft: false
-comments: false
-showToc: true
-TocOpen: true
-autonumbering: true
-hidemeta: false
-disableShare: true
-searchHidden: false
-showbreadcrumbs: true
-mermaid: true
 mathjax: true
-cover:
-    image: ""
-    caption: ""
-    alt: ""
-    relative: false
 ---
 
 **********************************
-
-
-
-
 
 <font face="Times New Roman"><p style="text-align:justify"><b>"Evaluating the employment impact of a mandatory job search program"</b></font>
 <br/>
@@ -44,11 +21,7 @@ cover:
 <font face="Times New Roman"><p style="text-align:justify"><b>What treatment do the authors evaluate?</b></font>
 <br/>
 
-
-
 <!-- more -->
-
-
 
 <font face="Tex Gyre Pagella"><p style="text-align:justify"><b>Answer: </b> In the parametric methods, the common trend assumption is:
 

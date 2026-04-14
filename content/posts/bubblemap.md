@@ -1,7 +1,6 @@
 ---
 title: "大城市人口增长速度🦚"
 date: 2020-05-27
-lastmod: 2020-05-27
 author: ["QGQ"]
 
 categories:
@@ -11,26 +10,8 @@ categories:
 tags:
 - "R"
 
-description: ""
-summary: ""
-weight:
-slug: ""
 draft: false
-comments: false
-showToc: true
-TocOpen: true
-autonumbering: true
-hidemeta: false
-disableShare: true
-searchHidden: false
-showbreadcrumbs: true
-mermaid: true
 mathjax: true
-cover:
-    image: ""
-    caption: ""
-    alt: ""
-    relative: false
 ---
 
 ## 效果展示
@@ -70,7 +51,6 @@ worldmap <- read_sf('/home/qgq/文档/world.geo.json') %>%
 3. `st_as_sf`是`sf`包中的函数,其将外来对象转换为`sf`对象,最终数据存储为`con_df`.
 3. `con_df$growth.rate`表示在`con_df`数据框^[可以通过`class(con_df)`查看`con_df`属于哪些类]中添加一个`growth.rate`变量,也可以进行对数增长率的计算.
 
-
 ```r
 read_csv('~/文档/data-bKvwd.csv') %>%
   dplyr::select(Lat, Lon, `2000`,`2016`) %>%
@@ -82,7 +62,6 @@ con_df$log.growth.rate <- log(as.numeric(con_df$`2016`)/as.numeric(con_df$`2000`
 ## 对数据进行离散化处理
 连续的数据虽然包含更多信息,但是糅合一些离散化的策略,使用颜色或其它图形属性表征,能呈现出更直观的信息.
 使用`mutate`函数将`growth.rate`离散化为`interval`.
-
 
 ```r
 con_df <- con_df %>% mutate(
@@ -96,7 +75,6 @@ con_df <- con_df %>% mutate(
 ```
 
 与此同时,计算出`growth.rate`的最大值用于辅助分段.
-
 
 ```r
 max.gr <- as.numeric(

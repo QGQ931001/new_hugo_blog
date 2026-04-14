@@ -1,7 +1,6 @@
 ---
 title: "Macroeconomic Effects of Debt Relief 深度阅读笔记 — Auclert, Dobbie & Goldsmith-Pinkham"
 date: 2026-04-10
-lastmod: 2026-04-10
 author: ["QGQ"]
 
 categories:
@@ -15,26 +14,8 @@ tags:
 - "破产制度"
 - "宏观经济学"
 
-description: ""
-summary: ""
-weight:
-slug: ""
 draft: false
-comments: false
-showToc: true
-TocOpen: true
-autonumbering: true
-hidemeta: false
-disableShare: true
-searchHidden: false
-showbreadcrumbs: true
-mermaid: true
 mathjax: true
-cover:
-    image: ""
-    caption: ""
-    alt: ""
-    relative: false
 ---
 
 <!-- more -->

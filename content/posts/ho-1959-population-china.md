@@ -1,7 +1,6 @@
 ---
 title: "<中国人口研究 1368-1953>深度阅读笔记 — 何炳棣 Ping-ti Ho"
 date: 2024-04-05
-lastmod: 2024-04-05
 author: ["QGQ"]
 
 categories:
@@ -13,29 +12,9 @@ tags:
 - "人口史"
 - "中国研究"
 
-description: ""
-summary: ""
-weight:
-slug: ""
 draft: false
-comments: false
-showToc: true
-TocOpen: true
-autonumbering: true
-hidemeta: false
-disableShare: true
-searchHidden: false
-showbreadcrumbs: true
-mermaid: true
 mathjax: true
-cover:
-    image: ""
-    caption: ""
-    alt: ""
-    relative: false
 ---
-
-
 
 ## 书籍信息
 - **书名**: Studies on the Population of China, 1368-1953(中国人口研究,1368-1953)

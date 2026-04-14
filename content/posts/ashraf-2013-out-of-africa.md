@@ -1,7 +1,6 @@
 ---
 title: "The Out of Africa Hypothesis, Human Genetic Diversity, and Comparative Economic Development 笔记"
 date: 2026-04-06
-lastmod: 2026-04-06
 author: ["QGQ"]
 
 categories:
@@ -12,26 +11,8 @@ tags:
 - "经济史"
 - "发展经济学"
 
-description: ""
-summary: ""
-weight:
-slug: "ashraf2013"
 draft: false
-comments: false
-showToc: true
-TocOpen: true
-autonumbering: true
-hidemeta: false
-disableShare: true
-searchHidden: false
-showbreadcrumbs: true
-mermaid: true
 mathjax: true
-cover:
-    image: ""
-    caption: ""
-    alt: ""
-    relative: false
 ---
 
 ## 文献信息

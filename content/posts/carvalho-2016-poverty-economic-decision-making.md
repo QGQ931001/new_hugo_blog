@@ -1,7 +1,6 @@
 ---
 title: "Poverty and Economic Decision-Making — 深度阅读笔记 — Carvalho, Meier & Wang"
 date: 2026-04-15
-lastmod: 2026-04-15
 author: ["QGQ"]
 
 categories:
@@ -13,26 +12,8 @@ tags:
 - "行为经济学"
 - "认知科学"
 
-description: ""
-summary: ""
-weight:
-slug: ""
 draft: false
-comments: false
-showToc: true
-TocOpen: true
-autonumbering: true
-hidemeta: false
-disableShare: true
-searchHidden: false
-showbreadcrumbs: true
-mermaid: true
 mathjax: true
-cover:
-    image: ""
-    caption: ""
-    alt: ""
-    relative: false
 ---
 
 ## 文献信息

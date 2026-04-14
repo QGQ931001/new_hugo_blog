@@ -1,7 +1,6 @@
 ---
 title: "如何在双变量Probit中使用工具变量法IV估计"
 date: 2020-05-25
-lastmod: 2020-05-25
 author: ["秦国庆"]
 
 categories:
@@ -11,26 +10,8 @@ categories:
 tags:
 - "stata"
 
-description: ""
-summary: ""
-weight:
-slug: ""
 draft: false
-comments: false
-showToc: true
-TocOpen: true
-autonumbering: true
-hidemeta: false
-disableShare: true
-searchHidden: false
-showbreadcrumbs: true
-mermaid: true
 mathjax: true
-cover:
-    image: ""
-    caption: ""
-    alt: ""
-    relative: false
 ---
 
 **********************************
@@ -76,7 +57,6 @@ qui:replace `lnf'=`lnf'+ln(binormal(`m1',-`m2',-`rho')) if $ML_y1==1 & $ML_y2==0
 qui:replace `lnf'=`lnf'+ln(binormal(-`m1',`m2',-`rho')) if $ML_y1==0 & $ML_y2==1
 qui:replace `lnf'=`lnf'+ln(binormal(-`m1',-`m2',`rho')) if $ML_y1==0 & $ML_y2==0
 end
-
 
 ml model lf mybiprobitiv (private:private=logptax loginc years) (g1:)  (vote:vote=logptax loginc years)  (g2:) /athrho (zb1:logptax=loginc  years z  ) /lns1, init(b)
 ml maximize

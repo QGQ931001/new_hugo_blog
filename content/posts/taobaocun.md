@@ -1,7 +1,6 @@
 ---
 title: "2014到2021年:淘宝村分布散点图\U0001F632"
 date: 2022-02-22
-lastmod: 2022-02-22
 author: ["QGQ"]
 
 categories:
@@ -11,26 +10,8 @@ categories:
 tags:
 - "R"
 
-description: ""
-summary: ""
-weight:
-slug: ""
 draft: false
-comments: false
-showToc: true
-TocOpen: true
-autonumbering: true
-hidemeta: false
-disableShare: true
-searchHidden: false
-showbreadcrumbs: true
-mermaid: true
 mathjax: true
-cover:
-    image: ""
-    caption: ""
-    alt: ""
-    relative: false
 ---
 
 ## **效果展示**

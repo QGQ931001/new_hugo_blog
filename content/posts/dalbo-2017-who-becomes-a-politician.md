@@ -1,7 +1,6 @@
 ---
 title: "<Who Becomes A Politician?>深度阅读笔记 — Dal Bó, Finan, Folke, Persson & Rickne"
 date: 2026-04-10
-lastmod: 2026-04-10
 author: ["QGQ"]
 
 categories:
@@ -14,26 +13,8 @@ tags:
 - "民主理论"
 - "政治经济学"
 
-description: ""
-summary: ""
-weight:
-slug: ""
 draft: false
-comments: false
-showToc: true
-TocOpen: true
-autonumbering: true
-hidemeta: false
-disableShare: true
-searchHidden: false
-showbreadcrumbs: true
-mermaid: true
 mathjax: true
-cover:
-    image: ""
-    caption: ""
-    alt: ""
-    relative: false
 ---
 
 <!-- more -->

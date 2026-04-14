@@ -1,7 +1,6 @@
 ---
 title: "中国农业发展之路 — 深度阅读笔记 — Perkins"
 date: 2026-04-14
-lastmod: 2026-04-14
 author: ["QGQ"]
 
 categories:
@@ -13,26 +12,8 @@ tags:
 - "农业史"
 - "中国历史"
 
-description: ""
-summary: ""
-weight:
-slug: "perkins1969"
 draft: false
-comments: false
-showToc: true
-TocOpen: true
-autonumbering: true
-hidemeta: false
-disableShare: true
-searchHidden: false
-showbreadcrumbs: true
-mermaid: true
 mathjax: false
-cover:
-    image: ""
-    caption: ""
-    alt: ""
-    relative: false
 ---
 
 # 中国农业发展之路 — Perkins

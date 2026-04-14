@@ -1,7 +1,6 @@
 ---
 title: "<玉米与人口>深度阅读笔记 — Chen & Kung"
 date: 2026-04-05T00:00:00
-lastmod: 2026-04-05T00:00:00
 author: ["QGQ"]
 
 categories:
@@ -11,28 +10,9 @@ tags:
 - "论文笔记"
 - "经济史"
 
-description: ""
-summary: ""
-slug: "chen2016"
 draft: false
-comments: false
-showToc: true
-TocOpen: true
-autonumbering: true
-hidemeta: false
-disableShare: true
-searchHidden: false
-showbreadcrumbs: true
-mermaid: true
 mathjax: true
-cover:
-    image: ""
-    caption: ""
-    alt: ""
-    relative: false
 ---
-
-
 
 ## 文献信息
 

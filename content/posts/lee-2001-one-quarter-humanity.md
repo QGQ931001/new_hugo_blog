@@ -1,7 +1,6 @@
 ---
 title: "One Quarter of Humanity 深度阅读笔记 — James Z. Lee & Wang Feng"
 date: 2024-04-05
-lastmod: 2024-04-05
 author: ["QGQ"]
 
 categories:
@@ -13,29 +12,9 @@ tags:
 - "人口史"
 - "比较历史学"
 
-description: ""
-summary: ""
-weight:
-slug: ""
 draft: false
-comments: false
-showToc: true
-TocOpen: true
-autonumbering: true
-hidemeta: false
-disableShare: true
-searchHidden: false
-showbreadcrumbs: true
-mermaid: true
 mathjax: true
-cover:
-    image: ""
-    caption: ""
-    alt: ""
-    relative: false
 ---
-
-
 
 ## 书籍信息
 - **书名**: One Quarter of Humanity

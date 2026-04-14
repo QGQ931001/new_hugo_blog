@@ -1,7 +1,6 @@
 ---
 title: "<住房与不平等>深度阅读笔记 — Ioannides & Ngai"
 date: 2026-04-06T00:00:00
-lastmod: 2026-04-06T00:00:00
 author: ["QGQ"]
 
 categories:
@@ -11,28 +10,9 @@ tags:
 - "论文笔记"
 - "城市经济学"
 
-description: ""
-summary: ""
-slug: "ioannides2025"
 draft: false
-comments: false
-showToc: true
-TocOpen: true
-autonumbering: true
-hidemeta: false
-disableShare: true
-searchHidden: false
-showbreadcrumbs: true
-mermaid: true
 mathjax: true
-cover:
-    image: ""
-    caption: ""
-    alt: ""
-    relative: false
 ---
-
-
 
 ## 文献信息
 

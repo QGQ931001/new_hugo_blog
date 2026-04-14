@@ -1,7 +1,6 @@
 ---
 title: "<中国的历史之路>深度阅读笔记 — 伊懋可 Mark Elvin"
 date: 2024-04-05
-lastmod: 2024-04-05
 author: ["QGQ"]
 
 categories:
@@ -13,26 +12,8 @@ tags:
 - "经济史"
 - "中国研究"
 
-description: ""
-summary: ""
-weight:
-slug: ""
 draft: false
-comments: false
-showToc: true
-TocOpen: true
-autonumbering: true
-hidemeta: false
-disableShare: true
-searchHidden: false
-showbreadcrumbs: true
-mermaid: true
 mathjax: true
-cover:
-    image: ""
-    caption: ""
-    alt: ""
-    relative: false
 ---
 
 # 

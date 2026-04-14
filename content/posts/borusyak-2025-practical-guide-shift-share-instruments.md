@@ -1,7 +1,6 @@
 ---
 title: "A Practical Guide to Shift-Share Instruments 论文笔记 — Borusyak, Hull & Jaravel"
 date: 2025-04-06
-lastmod: 2025-04-06
 author: ["QGQ"]
 
 categories:
@@ -12,26 +11,8 @@ tags:
 - "计量经济学"
 - "工具变量"
 
-description: ""
-summary: ""
-weight:
-slug: "boru2025"
 draft: false
-comments: false
-showToc: true
-TocOpen: true
-autonumbering: true
-hidemeta: false
-disableShare: true
-searchHidden: false
-showbreadcrumbs: true
-mermaid: true
 mathjax: true
-cover:
-    image: ""
-    caption: ""
-    alt: ""
-    relative: false
 ---
 
 ## 文献信息

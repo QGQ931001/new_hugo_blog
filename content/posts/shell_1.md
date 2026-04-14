@@ -1,7 +1,6 @@
 ---
 title: "shell脚本笔记(1)"
 date: 2020-05-25
-lastmod: 2020-05-25
 author: ["秦国庆"]
 
 categories:
@@ -10,26 +9,8 @@ categories:
 tags:
 - "shell"
 
-description: ""
-summary: ""
-weight:
-slug: ""
 draft: false
-comments: false
-showToc: true
-TocOpen: true
-autonumbering: true
-hidemeta: false
-disableShare: true
-searchHidden: false
-showbreadcrumbs: true
-mermaid: true
 mathjax: true
-cover:
-    image: ""
-    caption: ""
-    alt: ""
-    relative: false
 ---
 
 **********************************

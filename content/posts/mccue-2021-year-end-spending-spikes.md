@@ -48,7 +48,6 @@ cover:
 
 ---
 
-# Examining year-end spending spikes in the European Economic Area: a comparative study of procurement contracts
 
 ## 文献信息
 - **标题**: Examining year-end spending spikes in the European Economic Area: a comparative study of procurement contracts

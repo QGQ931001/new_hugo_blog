@@ -14,7 +14,7 @@ tags:
 description: ""
 summary: ""
 weight:
-slug: ""
+slug: "836"
 draft: false
 comments: false
 showToc: true
@@ -32,7 +32,6 @@ cover:
     alt: ""
     relative: false
 ---
-
 
 ## **关于DID因果识别**
 

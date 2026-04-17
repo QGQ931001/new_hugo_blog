@@ -16,7 +16,7 @@ tags:
 description: ""
 summary: ""
 weight:
-slug: ""
+slug: "elvin1973"
 draft: false
 comments: false
 showToc: true
@@ -34,8 +34,6 @@ cover:
     alt: ""
     relative: false
 ---
-
-
 
 ## 书籍信息
 - **书名**: The Pattern of the Chinese Past: A Social and Economic Interpretation(中国过去的模式:社会与经济诠释)

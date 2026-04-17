@@ -15,7 +15,7 @@ tags:
 description: ""
 summary: ""
 weight:
-slug: ""
+slug: "ashraf2013"
 draft: false
 comments: false
 showToc: true
@@ -33,7 +33,6 @@ cover:
     alt: ""
     relative: false
 ---
-
 
 本文是 Ashraf & Galor 2013 年的论文笔记,探讨了一个很有意思的问题:为什么全球各地的经济发展水平差异这么大?作者们从人类迁徙的历史出发,提出了一个相当有冲击力的观点_遗传多样性可能才是那个"深层根源".
 

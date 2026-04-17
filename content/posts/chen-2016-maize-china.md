@@ -14,7 +14,7 @@ tags:
 description: ""
 summary: ""
 weight:
-slug: ""
+slug: "chen2016"
 draft: false
 comments: false
 showToc: true
@@ -32,8 +32,6 @@ cover:
     alt: ""
     relative: false
 ---
-
-
 
 ## 文献信息
 - **标题**: Of maize and men: the effect of a New World crop on population and economic growth in China

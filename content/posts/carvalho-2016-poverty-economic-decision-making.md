@@ -16,7 +16,7 @@ tags:
 description: ""
 summary: ""
 weight:
-slug: ""
+slug: "carvalho2016"
 draft: false
 comments: false
 showToc: true
@@ -34,7 +34,6 @@ cover:
     alt: ""
     relative: false
 ---
-
 
 ## 文献信息
 

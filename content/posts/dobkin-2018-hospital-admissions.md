@@ -16,7 +16,7 @@ tags:
 description: ""
 summary: ""
 weight:
-slug: ""
+slug: "dobkin2018"
 draft: false
 comments: false
 showToc: true
@@ -34,7 +34,6 @@ cover:
     alt: ""
     relative: false
 ---
-
 
 ## 文献信息
 - **标题**: The Economic Consequences of Hospital Admissions

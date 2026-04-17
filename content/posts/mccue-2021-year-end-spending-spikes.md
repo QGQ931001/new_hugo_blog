@@ -15,7 +15,7 @@ tags:
 description: ""
 summary: ""
 weight:
-slug: ""
+slug: "mccue2021"
 draft: false
 comments: false
 showToc: true
@@ -33,7 +33,6 @@ cover:
     alt: ""
     relative: false
 ---
-
 
 ## 文献信息
 - **标题**: Examining year-end spending spikes in the European Economic Area: a comparative study of procurement contracts

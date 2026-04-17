@@ -17,7 +17,7 @@ tags:
 description: ""
 summary: ""
 weight:
-slug: ""
+slug: "baumann2024"
 draft: false
 comments: false
 showToc: true
@@ -35,7 +35,6 @@ cover:
     alt: ""
     relative: false
 ---
-
 
 ## 文献信息
 - **标题**: Do governments crowd out governments? Evidence from a natural experiment

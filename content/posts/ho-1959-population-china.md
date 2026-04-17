@@ -16,7 +16,7 @@ tags:
 description: ""
 summary: ""
 weight:
-slug: ""
+slug: "ho1959"
 draft: false
 comments: false
 showToc: true
@@ -34,8 +34,6 @@ cover:
     alt: ""
     relative: false
 ---
-
-
 
 ## 书籍信息
 - **书名**: Studies on the Population of China, 1368-1953(中国人口研究,1368-1953)

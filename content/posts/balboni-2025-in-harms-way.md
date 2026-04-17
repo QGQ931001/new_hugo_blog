@@ -1,5 +1,5 @@
 ---
-title: "In Harms Way? Infrastructure Investments and the Persistence of Coastal Cities — 深度阅读笔记 — Balboni"
+title: "In Harm's Way? Infrastructure Investments and the Persistence of Coastal Cities — 深度阅读笔记 — Balboni"
 date: 2026-04-15
 lastmod: 2026-04-15
 author: ["QGQ"]
@@ -17,7 +17,7 @@ tags:
 description: ""
 summary: ""
 weight:
-slug: ""
+slug: "balboni2025"
 draft: false
 comments: false
 showToc: true
@@ -35,7 +35,6 @@ cover:
     alt: ""
     relative: false
 ---
-
 
 ## 文献信息
 

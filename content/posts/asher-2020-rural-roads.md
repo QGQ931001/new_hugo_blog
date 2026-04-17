@@ -16,7 +16,7 @@ tags:
 description: ""
 summary: ""
 weight:
-slug: ""
+slug: "asher2020"
 draft: false
 comments: false
 showToc: true
@@ -34,7 +34,6 @@ cover:
     alt: ""
     relative: false
 ---
-
 
 ## 文献信息
 - **标题**: Rural Roads and Local Economic Development

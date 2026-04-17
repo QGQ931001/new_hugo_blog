@@ -15,7 +15,7 @@ tags:
 description: ""
 summary: ""
 weight:
-slug: ""
+slug: "boru2025"
 draft: false
 comments: false
 showToc: true
@@ -33,7 +33,6 @@ cover:
     alt: ""
     relative: false
 ---
-
 
 ## 文献信息
 

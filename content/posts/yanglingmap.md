@@ -2,7 +2,7 @@
 title: "画一幅我农所在地的道路图"
 date: 5/29/2020
 lastmod: 5/29/2020
-author: ["秦国庆"]
+author: ["QGQ"]
 
 categories:
 - "绘图"
@@ -13,7 +13,7 @@ tags:
 description: ""
 summary: ""
 weight:
-slug: ""
+slug: "42027"
 draft: false
 comments: false
 showToc: true
@@ -32,9 +32,8 @@ cover:
     relative: false
 ---
 
-
 ## 效果展示
-<img src="/zh/posts/figure/yanglingroad.png" width="80%" height="80%" align="middle" style="display: block; margin: auto;" />
+<img src="/figure/yanglingroad.png" width="80%" height="80%" align="middle" style="display: block; margin: auto;" />
 <center>上图即为最终效果</center>
 
 ## 一些必备的工具

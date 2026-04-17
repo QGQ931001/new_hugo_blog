@@ -5,7 +5,7 @@ lastmod: 2020-05-26
 author: ["QGQ"]
 
 categories:
-- "经济研究"
+- "AER"
 
 tags:
 - "论文笔记"
@@ -13,7 +13,7 @@ tags:
 description: ""
 summary: ""
 weight:
-slug: ""
+slug: "29862"
 draft: false
 comments: false
 showToc: true
@@ -31,10 +31,6 @@ cover:
     alt: ""
     relative: false
 ---
-
-
-
-
 
 ## 一个说明
 

@@ -15,7 +15,7 @@ tags:
 description: ""
 summary: ""
 weight:
-slug: ""
+slug: "liebman2017"
 draft: false
 comments: false
 showToc: true
@@ -33,7 +33,6 @@ cover:
     alt: ""
     relative: false
 ---
-
 
 ## 文献信息
 - **标题**: Do Expiring Budgets Lead to Wasteful Year-End Spending? Evidence from Federal Procurement

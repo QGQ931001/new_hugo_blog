@@ -14,7 +14,7 @@ tags:
 description: ""
 summary: ""
 weight:
-slug: ""
+slug: "ioannides2025"
 draft: false
 comments: false
 showToc: true
@@ -32,8 +32,6 @@ cover:
     alt: ""
     relative: false
 ---
-
-
 
 ## 文献信息
 - **标题**: Housing and Inequality(住房与不平等)

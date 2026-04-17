@@ -16,7 +16,7 @@ tags:
 description: ""
 summary: ""
 weight:
-slug: ""
+slug: "doyle2008"
 draft: false
 comments: false
 showToc: true
@@ -34,7 +34,6 @@ cover:
     alt: ""
     relative: false
 ---
-
 
 ## 文献信息
 - **标题**: Child Protection and Adult Crime: Using Investigator Assignment to Estimate Causal Effects of Foster Care

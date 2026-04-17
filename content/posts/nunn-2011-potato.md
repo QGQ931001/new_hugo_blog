@@ -14,7 +14,7 @@ tags:
 description: ""
 summary: ""
 weight:
-slug: ""
+slug: "nunn2011"
 draft: false
 comments: false
 showToc: true
@@ -32,7 +32,6 @@ cover:
     alt: ""
     relative: false
 ---
-
 
 ## 文献信息
 - **标题**: The Potato's Contribution to Population and Urbanization: Evidence From A Historical Experiment

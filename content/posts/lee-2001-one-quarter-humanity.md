@@ -16,7 +16,7 @@ tags:
 description: ""
 summary: ""
 weight:
-slug: ""
+slug: "lee2001"
 draft: false
 comments: false
 showToc: true
@@ -34,8 +34,6 @@ cover:
     alt: ""
     relative: false
 ---
-
-
 
 ## 书籍信息
 - **书名**: One Quarter of Humanity

@@ -14,7 +14,7 @@ tags:
 description: ""
 summary: ""
 weight:
-slug: ""
+slug: "15523"
 draft: false
 comments: false
 showToc: true
@@ -33,11 +33,9 @@ cover:
     relative: false
 ---
 
-
-
 ## 效果展示
 
-<img src="/zh/posts/figure/bubblemap.png" width="80%" height="80%" align="middle" />
+<img src="/figure/bubblemap.png" width="80%" height="80%" align="middle" />
 <center>上图即为最终效果</center>
 
 ## 下载数据

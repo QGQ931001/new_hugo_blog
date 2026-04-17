@@ -16,7 +16,7 @@ tags:
 description: ""
 summary: ""
 weight:
-slug: ""
+slug: "dalbo2017"
 draft: false
 comments: false
 showToc: true
@@ -34,8 +34,6 @@ cover:
     alt: ""
     relative: false
 ---
-
-
 
 ## 文献信息
 - **标题**: Who Becomes A Politician?

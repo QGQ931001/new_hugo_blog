@@ -17,7 +17,7 @@ tags:
 description: ""
 summary: ""
 weight:
-slug: ""
+slug: "auclert2019"
 draft: false
 comments: false
 showToc: true
@@ -35,8 +35,6 @@ cover:
     alt: ""
     relative: false
 ---
-
-
 
 ## 文献信息
 - **标题**: Macroeconomic Effects of Debt Relief: Consumer Bankruptcy Protections in the Great Recession

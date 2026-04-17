@@ -17,7 +17,7 @@ tags:
 description: ""
 summary: ""
 weight:
-slug: ""
+slug: "federle2026"
 draft: false
 comments: false
 showToc: true
@@ -35,8 +35,6 @@ cover:
     alt: ""
     relative: false
 ---
-
-
 
 ## 文献信息
 

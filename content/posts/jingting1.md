@@ -13,7 +13,7 @@ tags:
 description: ""
 summary: ""
 weight:
-slug: ""
+slug: "48526"
 draft: false
 comments: false
 showToc: true
@@ -31,7 +31,6 @@ cover:
     alt: ""
     relative: false
 ---
-
 
 ## **因果推断**
 

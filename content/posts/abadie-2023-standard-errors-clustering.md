@@ -1,7 +1,7 @@
 ---
 title: "When Should You Adjust Standard Errors for Clustering? — 深度阅读笔记 — Abadie, Athey, Imbens & Wooldridge"
-date: 2025-04-17
-lastmod: 2025-04-17
+date: 2026-04-17
+lastmod: 2026-04-17
 author: ["QGQ"]
 
 categories:

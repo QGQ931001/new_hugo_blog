@@ -1,7 +1,7 @@
 ---
 title: "Generative AI at Work — 深度阅读笔记 — Brynjolfsson, Li & Raymond"
-date: 2025-04-17
-lastmod: 2025-04-17
+date: 2026-04-17
+lastmod: 2026-04-17
 author: ["QGQ"]
 
 categories:
@@ -15,7 +15,7 @@ tags:
 description: ""
 summary: ""
 weight: 100
-slug: "brynjolfsson2025"
+slug: "bryn2025"
 draft: false
 comments: false
 showToc: true

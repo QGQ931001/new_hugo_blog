@@ -1,7 +1,7 @@
 ---
 title: "The Effect of Minimum Wages on Low-Wage Jobs — 深度阅读笔记 — Cengiz, Dube, Lindner & Zipperer"
-date: 2025-04-17
-lastmod: 2025-04-17
+date: 2026-04-17
+lastmod: 2026-04-17
 author: ["QGQ"]
 
 categories:

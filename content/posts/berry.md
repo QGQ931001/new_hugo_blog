@@ -1,7 +1,7 @@
 ---
 title: "致Berry"
-date "2020-05-25"
-lastmod "2020-05-25"
+date: "2020-05-25"
+lastmod: "2020-05-25"
 author: ["QGQ"]
 
 categories:

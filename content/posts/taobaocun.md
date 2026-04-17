@@ -1,7 +1,7 @@
 ---
 title: "2014到2021年:淘宝村分布散点图\U0001F632"
-date "2022-02-22"
-lastmod "2022-02-22"
+date: "2022-02-22"
+lastmod: "2022-02-22"
 author: ["QGQ"]
 
 categories:

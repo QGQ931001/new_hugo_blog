@@ -1,7 +1,7 @@
 ---
 title: "Who Becomes A Politician? 深度阅读笔记 — Dal Bó, Finan, Folke, Persson & Rickne"
-date "2026-04-10"
-lastmod "2026-04-10"
+date: "2026-04-10"
+lastmod: "2026-04-10"
 author: ["QGQ"]
 
 categories:

@@ -1,7 +1,7 @@
 ---
 title: "画一幅我农所在地的道路图"
-date "2020-05-29"
-lastmod "2020-05-29"
+date: "2020-05-29"
+lastmod: "2020-05-29"
 author: ["QGQ"]
 
 categories:

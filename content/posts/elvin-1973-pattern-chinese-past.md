@@ -1,7 +1,7 @@
 ---
 title: "<中国的历史之路>深度阅读笔记 — 伊懋可 Mark Elvin"
-date "2024-04-05"
-lastmod "2024-04-05"
+date: "2024-04-05"
+lastmod: "2024-04-05"
 author: ["QGQ"]
 
 categories:

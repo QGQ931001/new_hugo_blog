@@ -1,7 +1,7 @@
 ---
 title: "<住房与不平等>深度阅读笔记 — Ioannides & Ngai"
-date "2026-04-06"
-lastmod "2026-04-06"
+date: "2026-04-06"
+lastmod: "2026-04-06"
 author: ["QGQ"]
 
 categories:

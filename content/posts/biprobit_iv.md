@@ -1,7 +1,7 @@
 ---
 title: "如何在双变量Probit中使用工具变量法IV估计"
-date "2020-05-25"
-lastmod "2020-05-25"
+date: "2020-05-25"
+lastmod: "2020-05-25"
 author: ["QGQ"]
 
 categories:

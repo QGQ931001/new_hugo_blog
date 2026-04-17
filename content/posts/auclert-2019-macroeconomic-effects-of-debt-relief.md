@@ -1,7 +1,7 @@
 ---
 title: "Macroeconomic Effects of Debt Relief 深度阅读笔记 — Auclert, Dobbie & Goldsmith-Pinkham"
-date "2026-04-10"
-lastmod "2026-04-10"
+date: "2026-04-10"
+lastmod: "2026-04-10"
 author: ["QGQ"]
 
 categories:

@@ -1,7 +1,7 @@
 ---
 title: "R数据科学_ggplot2笔记(1)"
-date "2020-05-26"
-lastmod "2020-05-26"
+date: "2020-05-26"
+lastmod: "2020-05-26"
 author: ["QGQ"]
 
 categories:

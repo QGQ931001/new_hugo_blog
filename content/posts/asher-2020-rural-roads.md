@@ -1,7 +1,7 @@
 ---
 title: "Rural Roads and Local Economic Development — 深度阅读笔记 — Asher & Novosad"
-date "2024-04-17"
-lastmod "2024-04-17"
+date: "2024-04-17"
+lastmod: "2024-04-17"
 author: ["QGQ"]
 
 categories:

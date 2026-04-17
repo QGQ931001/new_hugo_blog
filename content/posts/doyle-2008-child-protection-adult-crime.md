@@ -1,7 +1,7 @@
 ---
 title: "Child Protection and Adult Crime: Using Investigator Assignment to Estimate Causal Effects of Foster Care -- 深度阅读笔记 -- Doyle"
-date "2026-04-14"
-lastmod "2026-04-14"
+date: "2026-04-14"
+lastmod: "2026-04-14"
 author: ["QGQ"]
 
 categories:

@@ -1,7 +1,7 @@
 ---
 title: "走出非洲假说、人类遗传多样性与比较经济发展 _ Ashraf & Galor (2013) 笔记"
-date "2026-04-06"
-lastmod "2026-04-06"
+date: "2026-04-06"
+lastmod: "2026-04-06"
 author: ["QGQ"]
 
 categories:

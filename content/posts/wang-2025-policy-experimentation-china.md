@@ -1,7 +1,7 @@
 ---
 title: "Policy Experimentation in China: The Political Economy of Policy Learning — 深度阅读笔记 — Wang & Yang"
-date "2026-04-17"
-lastmod "2026-04-17"
+date: "2026-04-17"
+lastmod: "2026-04-17"
 author: ["QGQ"]
 
 categories:

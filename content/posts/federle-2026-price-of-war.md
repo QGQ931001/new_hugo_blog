@@ -1,7 +1,7 @@
 ---
 title: "The Price of War — 深度阅读笔记 — Federle et al."
-date "2026-04-15"
-lastmod "2026-04-15"
+date: "2026-04-15"
+lastmod: "2026-04-15"
 author: ["QGQ"]
 
 categories:

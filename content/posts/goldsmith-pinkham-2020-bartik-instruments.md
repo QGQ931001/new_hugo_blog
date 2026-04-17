@@ -1,7 +1,7 @@
 ---
 title: "Bartik Instruments: What, When, Why, and How — 深度阅读笔记 — AER"
-date "2026-04-17"
-lastmod "2026-04-17"
+date: "2026-04-17"
+lastmod: "2026-04-17"
 author: ["QGQ"]
 
 categories:

@@ -1,7 +1,7 @@
 ---
 title: "Poverty and Economic Decision-Making — 深度阅读笔记 — Carvalho, Meier & Wang"
-date "2026-04-15"
-lastmod "2026-04-15"
+date: "2026-04-15"
+lastmod: "2026-04-15"
 author: ["QGQ"]
 
 categories:

@@ -1,7 +1,7 @@
 ---
 title: "大城市人口增长速度🦚"
-date "2020-05-27"
-lastmod "2020-05-27"
+date: "2020-05-27"
+lastmod: "2020-05-27"
 author: ["QGQ"]
 
 categories:

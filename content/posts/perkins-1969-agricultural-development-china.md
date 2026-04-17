@@ -1,7 +1,7 @@
 ---
 title: "中国农业发展之路 — 深度阅读笔记 — Perkins"
-date "2026-04-14"
-lastmod "2026-04-14"
+date: "2026-04-14"
+lastmod: "2026-04-14"
 author: ["QGQ"]
 
 categories:

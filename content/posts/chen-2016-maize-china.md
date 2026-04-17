@@ -1,7 +1,7 @@
 ---
 title: "<玉米与人口>深度阅读笔记 — Chen & Kung"
-date "2026-04-05"
-lastmod "2026-04-05"
+date: "2026-04-05"
+lastmod: "2026-04-05"
 author: ["QGQ"]
 
 categories:

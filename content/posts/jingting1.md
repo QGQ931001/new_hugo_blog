@@ -1,7 +1,7 @@
 ---
 title: "学术讲座# 中国人民大学经济学院江艇:因果推断Ⅰ"
-date "2022-09-12"
-lastmod "2022-09-12"
+date: "2022-09-12"
+lastmod: "2022-09-12"
 author: ["QGQ"]
 
 categories:

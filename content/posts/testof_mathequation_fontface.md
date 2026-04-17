@@ -1,7 +1,7 @@
 ---
 title: "字体和公式的display"
-date "2020-05-30"
-lastmod "2020-05-30"
+date: "2020-05-30"
+lastmod: "2020-05-30"
 author: ["QGQ"]
 
 categories:

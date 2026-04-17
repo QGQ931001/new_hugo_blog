@@ -1,7 +1,7 @@
 ---
 title: "The Economic Consequences of Hospital Admissions — 深度阅读笔记 — Dobkin et al."
-date "2024-04-17"
-lastmod "2024-04-17"
+date: "2024-04-17"
+lastmod: "2024-04-17"
 author: ["QGQ"]
 
 categories:

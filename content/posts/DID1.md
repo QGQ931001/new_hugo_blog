@@ -1,7 +1,7 @@
 ---
 title: "学术讲座# 中国人民大学经济学院江艇:渐进DID的最新进展"
-date "2022-08-24"
-lastmod "2022-08-24"
+date: "2022-08-24"
+lastmod: "2022-08-24"
 author: ["QGQ"]
 
 categories:

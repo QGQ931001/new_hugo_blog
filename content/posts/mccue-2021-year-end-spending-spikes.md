@@ -1,7 +1,7 @@
 ---
 title: "年末消费高峰 — 论文笔记 — McCue, Prier & Lofaro"
-date "2026-04-15"
-lastmod "2026-04-15"
+date: "2026-04-15"
+lastmod: "2026-04-15"
 author: ["QGQ"]
 
 categories:

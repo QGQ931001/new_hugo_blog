@@ -1,7 +1,7 @@
 ---
 title: "<中国人口研究 1368-1953>深度阅读笔记 — 何炳棣 Ping-ti Ho"
-date "2024-04-05"
-lastmod "2024-04-05"
+date: "2024-04-05"
+lastmod: "2024-04-05"
 author: ["QGQ"]
 
 categories:

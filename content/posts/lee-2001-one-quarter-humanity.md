@@ -1,7 +1,7 @@
 ---
 title: "One Quarter of Humanity 深度阅读笔记 — James Z. Lee & Wang Feng"
-date "2024-04-05"
-lastmod "2024-04-05"
+date: "2024-04-05"
+lastmod: "2024-04-05"
 author: ["QGQ"]
 
 categories:

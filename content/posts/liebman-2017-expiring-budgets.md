@@ -1,7 +1,7 @@
 ---
 title: "预算到期会导致年底浪费性支出吗?_ Liebman & Mahoney (2017) 笔记"
-date "2026-04-06"
-lastmod "2026-04-06"
+date: "2026-04-06"
+lastmod: "2026-04-06"
 author: ["QGQ"]
 
 categories:

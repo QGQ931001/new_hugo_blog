@@ -16,7 +16,7 @@ tags:
 
 description: ""
 summary: ""
-weight: 9999
+weight: 100
 slug: "wang2025policyexperiment"
 draft: false
 comments: false
@@ -28,7 +28,7 @@ disableShare: true
 searchHidden: false
 showbreadcrumbs: true
 mermaid: true
-math: true
+mathjax: true
 ---
 
 ## 文献信息

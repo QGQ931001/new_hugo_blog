@@ -1,12 +1,42 @@
 ---
 title: "The Price of War — 深度阅读笔记 — Federle et al."
 date: 2026-04-15
+lastmod: 2026-04-15
 author: ["QGQ"]
-categories: ["经济学"]
-tags: ["论文笔记", "战争经济学", "宏观经济学", "经济史学", "地缘政治"]
+
+categories:
+- "经济学"
+
+tags:
+- "论文笔记"
+- "战争经济学"
+- "宏观经济学"
+- "经济史学"
+- "地缘政治"
+
+description: ""
+summary: ""
+weight:
+slug: ""
 draft: false
+comments: false
+showToc: true
+TocOpen: true
+autonumbering: true
+hidemeta: false
+disableShare: true
+searchHidden: false
+showbreadcrumbs: true
+mermaid: true
 mathjax: true
+cover:
+    image: ""
+    caption: ""
+    alt: ""
+    relative: false
 ---
+
+
 
 ## 文献信息
 
@@ -17,6 +47,7 @@ mathjax: true
 - **出版机构/期刊**: American Economic Review, 116(3): 791-827
 - **DOI**: 10.1257/aer.20241355
 - **难度评估**: 高 - 需要经济学、统计学、计量史学基础
+<!-- more -->
 
 ---
 
@@ -524,4 +555,3 @@ $${\epsilon_{i,c,t-1} = \frac{Import_{i \leftarrow j, t-1}}{GDP_{i, t-1}}}$$
 ---
 
 *本分析报告为深度阅读笔记，梳理了论文的核心逻辑、主要发现和学术价值。*
-

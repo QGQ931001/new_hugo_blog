@@ -1,18 +1,39 @@
 ---
 title: "文献阅读# 政策转移中的政策再生产:影响因素与模式概化"
 date: 2020-06-08
-author: ["秦国庆"]
+lastmod: 2020-06-08
+author: ["QGQ"]
 
 categories:
 - "公共管理"
 - "政策转移"
 
 tags:
-- "文献阅读"
+- "论文笔记"
 
+description: ""
+summary: ""
+weight:
+slug: ""
 draft: false
+comments: false
+showToc: true
+TocOpen: true
+autonumbering: true
+hidemeta: false
+disableShare: true
+searchHidden: false
+showbreadcrumbs: true
+mermaid: true
 mathjax: true
+cover:
+    image: ""
+    caption: ""
+    alt: ""
+    relative: false
 ---
+
+
 
 &nbsp;
 &nbsp;
@@ -26,6 +47,7 @@ mathjax: true
 
 <!-- more -->
 
+
 ## **2. 问题的提出**
 
 **2.1 政策转移的必要性**
@@ -36,11 +58,16 @@ mathjax: true
 
 核心问题:什么因素能够促成政策"再生产",政策"再生产"又体现出那些维度特征
 
+
+
 **2.2 河长制的背景介绍**
 
 河湖治理是跨界特性最典型的领域之一,涉及上下游、左右岸、不同行政区域和行业,呈现出高度的复杂性.河长制最早发轫于太湖蓝藻危机,2016年之前是一项地方政策,经政策扩散至多地.
 
 现实调查显示河长制在江苏省内的扩散过程中呈现出"复制"和"再生产"的典型差异.
+
+
+
 
 &nbsp;
 
@@ -52,17 +79,27 @@ mathjax: true
 
 其使用布尔代数和集合论的思想来进行中小数量的跨案例比较,从而处理多个原因和一个结果之间的因果关系.
 
+
 **3.2 转移程度的刻画**
 
 道洛维茨和马什最早借鉴rose(1993)的连续统来划分政策转移程度:复制、模仿、混合、启发.
 
 本文简单划分为:"复制"和"再生产"
 
+
 **3.3 解释变量的选择**
 
 行政压力、资源禀赋、政策需求、外部力量
 
+
+
+
+
+
 &nbsp;
+
+
+
 
 ## **4. 结论**
 

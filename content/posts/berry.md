@@ -1,32 +1,46 @@
 ---
 title: "致Berry"
-date: 2020-05-25
-author: ["秦国庆"]
+date: 2020-05-25 00:00:00
+lastmod: 2020-05-25 00:00:00
+author: ["QGQ"]
 
 categories:
-- "领导"
+- "经济研究"
 
 tags:
-- 妳
+- "论文笔记"
 
-description: "" # 文章描述,与搜索优化相关
-summary: "" # 文章简单描述,会展示在主页
-weight: # 输入1可以顶置文章,用来给文章展示排序,不填就默认按时间排序
-draft: false # 是否为草稿
-showToc: true # 显示目录
-TocOpen: true # 自动展开目录
-autonumbering: true # 目录自动编号
-hidemeta: false # 是否隐藏文章的元信息,如发布日期、作者等
-disableShare: true # 底部不显示分享栏
-searchHidden: false # 该页面可以被搜索到
-showbreadcrumbs: true #顶部显示当前路径
+description: ""
+summary: ""
+weight:
+slug: ""
+draft: false
+comments: false
+showToc: true
+TocOpen: true
+autonumbering: true
+hidemeta: false
+disableShare: true
+searchHidden: false
+showbreadcrumbs: true
+mermaid: true
+mathjax: true
+cover:
+    image: ""
+    caption: ""
+    alt: ""
+    relative: false
 ---
+
 
 **********************************
 
-**Love You.** 
-**Berry!** 
+<center> **Love You.** </center>
+<center> **Berry!** </center>
 
-![](/zh/posts/image/berry.jpg)
 
-<!-- more -->
+
+
+<center>
+<img src="/image/berry.jpg" width="66%" height="66%" title="妳" alt="妳"/>
+</center>

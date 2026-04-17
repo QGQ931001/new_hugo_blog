@@ -1,6 +1,7 @@
 ---
 title: "<马铃薯与人口>深度阅读笔记 — Nunn & Qian"
-date: 2026-04-05T00:00:00
+date: 2026-04-05
+lastmod: 2026-04-05
 author: ["QGQ"]
 
 categories:
@@ -10,12 +11,30 @@ tags:
 - "论文笔记"
 - "经济史"
 
+description: ""
+summary: ""
+weight:
+slug: ""
 draft: false
+comments: false
+showToc: true
+TocOpen: true
+autonumbering: true
+hidemeta: false
+disableShare: true
+searchHidden: false
+showbreadcrumbs: true
+mermaid: true
 mathjax: true
+cover:
+    image: ""
+    caption: ""
+    alt: ""
+    relative: false
 ---
 
-## 文献信息
 
+## 文献信息
 - **标题**: The Potato's Contribution to Population and Urbanization: Evidence From A Historical Experiment
 - **作者**: Nathan Nunn(哈佛大学), Nancy Qian(耶鲁大学)
 - **类型**: 论文笔记 / 经济史 / 人口史 / 计量史学
@@ -23,10 +42,9 @@ mathjax: true
 - **出版机构/期刊**: The Quarterly Journal of Economics
 - **DOI**: 10.1093/qje/qjr009
 - **难度评估**: 高 - 需要经济学、统计学、计量史学基础
-
+<!-- more -->
 ---
 
-# 
 
 ## 引言:马铃薯_改变世界的作物
 

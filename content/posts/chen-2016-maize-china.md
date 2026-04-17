@@ -1,6 +1,7 @@
 ---
 title: "<玉米与人口>深度阅读笔记 — Chen & Kung"
-date: 2026-04-05T00:00:00
+date: 2026-04-05
+lastmod: 2026-04-05
 author: ["QGQ"]
 
 categories:
@@ -10,12 +11,31 @@ tags:
 - "论文笔记"
 - "经济史"
 
+description: ""
+summary: ""
+weight:
+slug: ""
 draft: false
+comments: false
+showToc: true
+TocOpen: true
+autonumbering: true
+hidemeta: false
+disableShare: true
+searchHidden: false
+showbreadcrumbs: true
+mermaid: true
 mathjax: true
+cover:
+    image: ""
+    caption: ""
+    alt: ""
+    relative: false
 ---
 
-## 文献信息
 
+
+## 文献信息
 - **标题**: Of maize and men: the effect of a New World crop on population and economic growth in China
 - **作者**: Shuo Chen, James Kai-sing Kung
 - **类型**: 论文笔记 / 经济史 / 人口史 / 计量史学
@@ -23,7 +43,7 @@ mathjax: true
 - **出版机构/期刊**: Journal of Economic Growth
 - **DOI**: 10.1007/s10887-016-9125-8
 - **难度评估**: 高 - 需要经济学、统计学、计量史学基础
-
+<!-- more -->
 ---
 
 ## 引言:马尔萨斯陷阱与中国
@@ -36,11 +56,11 @@ mathjax: true
    - **积极抑制 (Positive Checks):** 增加死亡率的因素,如饥荒、瘟疫和战争.
    - **预防性抑制 (Preventive Checks):** 降低出生率的因素,如晚婚、禁欲或生育控制.
 
-2. **现代经济增长 (Modern Economic Growth):** 人均收入能够持续,快速增长的经济发展阶段.通常伴随着工业化,技术创新,教育水平提升、人口结构转变以及城市化进程.
+2. **现代经济增长 (Modern Economic Growth):** 人均收入能够持续、快速增长的经济发展阶段.通常伴随着工业化、技术创新、教育水平提升、人口结构转变以及城市化进程.
 
-3. **哥伦布大交换 (Columbian Exchange):** 15世纪末哥伦布发现新大陆后,欧洲、非洲和美洲之间动植物,病菌、思想和人口的大规模交流.
+3. **哥伦布大交换 (Columbian Exchange):** 15世纪末哥伦布发现新大陆后,欧洲、非洲和美洲之间动植物、病菌、思想和人口的大规模交流.
 
-4. **大分流 (Great Divergence):** 18世纪以来,西方欧洲(特别是英国)与东亚(特别是中国)为经济发展道路上出现的分岔.
+4. **大分流 (Great Divergence):** 18世纪以来,西方欧洲(特别是英国)与东亚(特别是中国)在经济发展道路上出现的分岔.
 
 ### 研究的主要背景
 
@@ -50,7 +70,7 @@ mathjax: true
 
 2. **新大陆作物在旧世界的影响_以马铃薯为例:**
    - Nunn 和 Qian (2011) 的研究发现,马铃薯的引入在1700-1900年间使旧世界人口增长了25-26%,城市化率提高了27-34%.
-   - 中国也引入了三种主要的新大陆作物_玉米、甘薯和马铃薯.其中玉米因其对中国地理条件的适应性(抗旱,耐寒,适合山地和丘陵种植),以及数据可得性,成为本研究的重点.
+   - 中国也引入了三种主要的新大陆作物_玉米、甘薯和马铃薯.其中玉米因其对中国地理条件的适应性(抗旱、耐寒,适合山地和丘陵种植),以及数据可得性,成为本研究的重点.
 
 3. **中国未能工业化之谜:**
    - 传统观点认为是中国农业剩余不足以支撑工业化.

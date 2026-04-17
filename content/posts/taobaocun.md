@@ -1,6 +1,7 @@
 ---
 title: "2014到2021年:淘宝村分布散点图\U0001F632"
 date: 2022-02-22
+lastmod: 2022-02-22
 author: ["QGQ"]
 
 categories:
@@ -8,20 +9,39 @@ categories:
 - "map&sf"
 
 tags:
-- "R"
+- "论文笔记"
 
+description: ""
+summary: ""
+weight:
+slug: ""
 draft: false
+comments: false
+showToc: true
+TocOpen: true
+autonumbering: true
+hidemeta: false
+disableShare: true
+searchHidden: false
+showbreadcrumbs: true
+mermaid: true
 mathjax: true
+cover:
+    image: ""
+    caption: ""
+    alt: ""
+    relative: false
 ---
+
 
 ## **效果展示**
 
-![](https://qgq931001.oss-cn-beijing.aliyuncs.com/img/20250110235354537.svg)
+<img src="https://qgq931001.oss-cn-beijing.aliyuncs.com/img/20250110235354537.svg" width="80%" height="80%" align="middle" />
 <center>2014年的淘宝村分布</center>
 
 <!-- more -->
 
-![](https://qgq931001.oss-cn-beijing.aliyuncs.com/img/20250110235404847.svg)
+<img src="https://qgq931001.oss-cn-beijing.aliyuncs.com/img/20250110235404847.svg" width="80%" height="80%" align="middle" />
 
 <center>2021年的淘宝村分布</center>
 

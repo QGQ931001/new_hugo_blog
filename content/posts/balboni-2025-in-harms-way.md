@@ -1,12 +1,41 @@
 ---
-title: "In Harm's Way? Infrastructure Investments and the Persistence of Coastal Cities — 深度阅读笔记 — Balboni"
+title: "In Harms Way? Infrastructure Investments and the Persistence of Coastal Cities — 深度阅读笔记 — Balboni"
 date: 2026-04-15
+lastmod: 2026-04-15
 author: ["QGQ"]
-categories: ["经济学"]
-tags: ["论文笔记", "基础设施经济学", "空间经济学", "气候经济学", "发展经济学"]
+
+categories:
+- "经济学"
+
+tags:
+- "论文笔记"
+- "基础设施经济学"
+- "空间经济学"
+- "气候经济学"
+- "发展经济学"
+
+description: ""
+summary: ""
+weight:
+slug: ""
 draft: false
+comments: false
+showToc: true
+TocOpen: true
+autonumbering: true
+hidemeta: false
+disableShare: true
+searchHidden: false
+showbreadcrumbs: true
+mermaid: true
 mathjax: true
+cover:
+    image: ""
+    caption: ""
+    alt: ""
+    relative: false
 ---
+
 
 ## 文献信息
 
@@ -17,6 +46,7 @@ mathjax: true
 - **出版机构/期刊**: American Economic Review, 115(1), 77-116
 - **DOI**: 10.1257/aer.20191943
 - **难度评估**: 高 - 需要经济学、统计学、计量经济学、空间经济学基础
+<!-- more -->
 
 ---
 
@@ -303,4 +333,3 @@ mathjax: true
 ---
 
 *本分析报告严格遵循精读文献skill规定的八部分结构完成，旨在为初学者提供全面、易懂的论文逻辑梳理与学术要点解读。*
-

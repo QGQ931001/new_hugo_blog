@@ -1,17 +1,37 @@
 ---
 title: "学术讲座# 中国人民大学经济学院江艇:因果推断Ⅰ"
 date: 2022-09-12
+lastmod: 2022-09-12
 author: ["QGQ"]
 
 categories:
 - "计量"
 
 tags:
-- "学术讲座"
+- "论文笔记"
 
+description: ""
+summary: ""
+weight:
+slug: ""
 draft: false
+comments: false
+showToc: true
+TocOpen: true
+autonumbering: true
+hidemeta: false
+disableShare: true
+searchHidden: false
+showbreadcrumbs: true
+mermaid: true
 mathjax: true
+cover:
+    image: ""
+    caption: ""
+    alt: ""
+    relative: false
 ---
+
 
 ## **因果推断**
 
@@ -28,6 +48,8 @@ mathjax: true
 - **1.2** 潜在结果永远无法完全观测,除非存在平行宇宙
 - **1.3** 通过识别假设可以进行"插值",可以化"相关关系"识别场景为"因果关系"识别场景
 - **1.4** 鲁宾因果模型(潜在因果框架),一套描述因果关系的新语言
+
+
 
 ## **2** 
 

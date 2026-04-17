@@ -1,17 +1,38 @@
 ---
 title: "shell脚本笔记(1)"
-date: 2020-05-25
-author: ["秦国庆"]
+date: 2020-05-25 00:00:00
+lastmod: 2020-05-25 00:00:00
+author: ["QGQ"]
 
 categories:
-- "编程"
+- "经济研究"
 
 tags:
-- "shell"
+- "论文笔记"
 
+description: ""
+summary: ""
+weight:
+slug: ""
 draft: false
+comments: false
+showToc: true
+TocOpen: true
+autonumbering: true
+hidemeta: false
+disableShare: true
+searchHidden: false
+showbreadcrumbs: true
+mermaid: true
 mathjax: true
+cover:
+    image: ""
+    caption: ""
+    alt: ""
+    relative: false
 ---
+
+
 
 **********************************
 

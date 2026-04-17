@@ -1,7 +1,7 @@
 ---
 title: "Policy Experimentation in China: The Political Economy of Policy Learning — 深度阅读笔记 — Wang & Yang"
-date: "2026-04-17"
-lastmod: "2026-04-17"
+date: 2026-04-17
+lastmod: 2026-04-17
 author: ["QGQ"]
 
 categories:
@@ -17,7 +17,7 @@ tags:
 description: ""
 summary: ""
 weight: 100
-slug: "wang2025policyexperiment"
+slug: "wang2025"
 draft: false
 comments: false
 showToc: true
@@ -29,6 +29,11 @@ searchHidden: false
 showbreadcrumbs: true
 mermaid: true
 mathjax: true
+cover:
+    image: ""
+    caption: ""
+    alt: ""
+    relative: false
 ---
 
 ## 文献信息
@@ -40,7 +45,6 @@ mathjax: true
 - **出版机构/期刊**: Journal of Political Economy, Vol. 133, No. 7, Pages 2180-2228
 - **DOI**: 10.1086/734873
 - **难度评估**: 高 - 需要经济学、政治经济学、计量经济学基础
-
 <!--more-->
 
 ---

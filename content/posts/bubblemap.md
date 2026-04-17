@@ -1,7 +1,7 @@
 ---
 title: "大城市人口增长速度🦚"
-date: 2020-05-27
-lastmod: 2020-05-27
+date "2020-05-27"
+lastmod "2020-05-27"
 author: ["QGQ"]
 
 categories:
@@ -13,7 +13,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "15523"
 draft: false
 comments: false
@@ -55,7 +55,7 @@ library(tidyverse)
 library(hrbrthemes)
 library(ggtext)
 ```
-<!-- more -->
+<!--more-->
 
 ## 读取各大城市人口数据并计算年平均人口增长率
 `worldmap`为`josn`格式的地图数据,`st_transform`为进行投影坐标变换的函数.

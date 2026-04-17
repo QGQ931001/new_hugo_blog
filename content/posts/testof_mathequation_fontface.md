@@ -1,7 +1,7 @@
 ---
 title: "字体和公式的display"
-date: 2020-05-30 00:00:00
-lastmod: 2020-05-30 00:00:00
+date "2020-05-30"
+lastmod "2020-05-30"
 author: ["QGQ"]
 
 categories:
@@ -12,7 +12,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "15167"
 draft: false
 comments: false
@@ -46,7 +46,7 @@ cover:
 
 
 
-<!-- more -->
+<!--more-->
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "<中国人口研究 1368-1953>深度阅读笔记 — 何炳棣 Ping-ti Ho"
-date: 2024-04-05
-lastmod: 2024-04-05
+date "2024-04-05"
+lastmod "2024-04-05"
 author: ["QGQ"]
 
 categories:
@@ -15,7 +15,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "ho1959"
 draft: false
 comments: false
@@ -43,7 +43,7 @@ cover:
 - **出版机构**: Harvard University Press(哈佛大学出版社)
 - **所属系列**: Harvard East Asian Studies
 - **难度评估**: 高 - 需要经济学、统计学、历史学基础
-<!-- more -->
+<!--more-->
 ---
 
 ## 整体评价

@@ -1,7 +1,7 @@
 ---
 title: "Macroeconomic Effects of Debt Relief 深度阅读笔记 — Auclert, Dobbie & Goldsmith-Pinkham"
-date: 2026-04-10
-lastmod: 2026-04-10
+date "2026-04-10"
+lastmod "2026-04-10"
 author: ["QGQ"]
 
 categories:
@@ -16,7 +16,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "auclert2019"
 draft: false
 comments: false
@@ -43,7 +43,7 @@ cover:
 - **出版年份**: 2019
 - **出版机构/期刊**: NBER Working Paper No. 25685
 - **难度评估**: 高 - 需要宏观经济学、计量经济学基础
-<!-- more -->
+<!--more-->
 ---
 
 ## 引言(背景和意义)

@@ -1,7 +1,7 @@
 ---
 title: "R数据科学_ggplot2笔记(1)"
-date: 2020-05-26
-lastmod: 2020-05-26
+date "2020-05-26"
+lastmod "2020-05-26"
 author: ["QGQ"]
 
 categories:
@@ -12,7 +12,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "29862"
 draft: false
 comments: false
@@ -61,7 +61,7 @@ knitr::kable(head(ggplot2::mpg, 10))
 |audi         |a4 quattro |   1.8| 1999|   4|auto(l5)   |4   |  16|  25|p  |compact |
 |audi         |a4 quattro |   2.0| 2008|   4|manual(m6) |4   |  20|  28|p  |compact |
 
-<!-- more -->
+<!--more-->
 
 创建`ggplot2`图形,散点图:
 

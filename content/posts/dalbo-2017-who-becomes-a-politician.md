@@ -1,7 +1,7 @@
 ---
 title: "Who Becomes A Politician? 深度阅读笔记 — Dal Bó, Finan, Folke, Persson & Rickne"
-date: 2026-04-10
-lastmod: 2026-04-10
+date "2026-04-10"
+lastmod "2026-04-10"
 author: ["QGQ"]
 
 categories:
@@ -15,7 +15,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "dalbo2017"
 draft: false
 comments: false
@@ -43,7 +43,7 @@ cover:
 - **出版机构/期刊**: The Quarterly Journal of Economics, Vol. 132, No. 4, pp. 1877-1914
 - **DOI**: 10.1093/qje/qjx016
 - **难度评估**: 高 - 需要经济学、统计学、政治学基础
-<!-- more -->
+<!--more-->
 ---
 
 ## 引言(背景和意义)

@@ -1,7 +1,7 @@
 ---
 title: "Poverty and Economic Decision-Making — 深度阅读笔记 — Carvalho, Meier & Wang"
-date: 2026-04-15
-lastmod: 2026-04-15
+date "2026-04-15"
+lastmod "2026-04-15"
 author: ["QGQ"]
 
 categories:
@@ -15,7 +15,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "carvalho2016"
 draft: false
 comments: false
@@ -44,7 +44,7 @@ cover:
 - **出版机构/期刊**: American Economic Review, 106(2): 260-284
 - **DOI**: 10.1257/aer.20140481
 - **难度评估**: 中 - 需要经济学、计量经济学、行为经济学基础
-<!-- more -->
+<!--more-->
 
 ---
 

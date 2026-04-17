@@ -1,7 +1,7 @@
 ---
 title: "Child Protection and Adult Crime: Using Investigator Assignment to Estimate Causal Effects of Foster Care -- 深度阅读笔记 -- Doyle"
-date: 2026-04-14
-lastmod: 2026-04-14
+date "2026-04-14"
+lastmod "2026-04-14"
 author: ["QGQ"]
 
 categories:
@@ -15,7 +15,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "doyle2008"
 draft: false
 comments: false
@@ -43,7 +43,7 @@ cover:
 - **出版机构/期刊**: Journal of Political Economy, Vol. 116, No. 4, Pages 746-770
 - **DOI**: 10.1086/590216
 - **难度评估**: 高 - 需要计量经济学(工具变量、LATE/MTE框架)和犯罪经济学基础
-<!-- more -->
+<!--more-->
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "<住房与不平等>深度阅读笔记 — Ioannides & Ngai"
-date: 2026-04-06
-lastmod: 2026-04-06
+date "2026-04-06"
+lastmod "2026-04-06"
 author: ["QGQ"]
 
 categories:
@@ -13,7 +13,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "ioannides2025"
 draft: false
 comments: false
@@ -41,7 +41,7 @@ cover:
 - **出版机构/期刊**: Journal of Economic Literature, Vol. 63, No. 3, pp. 916-963
 - **JEL分类号**: D63, J15, J24, R21, R23, R31
 - **难度评估**: 高 - 需要经济学、统计学、城市经济学基础
-<!-- more -->
+<!--more-->
 ---
 
 

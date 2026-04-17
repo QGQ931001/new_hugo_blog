@@ -1,7 +1,7 @@
 ---
 title: "Rural Roads and Local Economic Development — 深度阅读笔记 — Asher & Novosad"
-date: 2024-04-17
-lastmod: 2024-04-17
+date "2024-04-17"
+lastmod "2024-04-17"
 author: ["QGQ"]
 
 categories:
@@ -15,7 +15,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "asher2020"
 draft: false
 comments: false
@@ -43,7 +43,7 @@ cover:
 - **出版机构/期刊**: American Economic Review, Vol. 110, No. 3, pp. 797-823
 - **DOI**: 10.1257/aer.20180268
 - **难度评估**: 高 - 需要发展经济学、计量经济学基础
-<!-- more -->
+<!--more-->
 
 ---
 

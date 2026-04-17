@@ -1,7 +1,7 @@
 ---
 title: "年末消费高峰 — 论文笔记 — McCue, Prier & Lofaro"
-date: 2026-04-15
-lastmod: 2026-04-15
+date "2026-04-15"
+lastmod "2026-04-15"
 author: ["QGQ"]
 
 categories:
@@ -14,7 +14,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "mccue2021"
 draft: false
 comments: false
@@ -42,7 +42,7 @@ cover:
 - **出版机构/期刊**: Journal of Public Budgeting, Accounting & Financial Management, Vol. 33 No. 5, pp. 513-532
 - **DOI**: 10.1108/JPBAFM-11-2020-0186
 - **难度评估**: 中 - 需要公共财政和计量经济学基础
-<!-- more -->
+<!--more-->
 
 ---
 

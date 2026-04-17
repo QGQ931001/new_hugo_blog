@@ -1,7 +1,7 @@
 ---
 title: "中国农业发展之路 — 深度阅读笔记 — Perkins"
-date: 2026-04-14
-lastmod: 2026-04-14
+date "2026-04-14"
+lastmod "2026-04-14"
 author: ["QGQ"]
 
 categories:
@@ -15,7 +15,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "perkins1969"
 draft: false
 comments: false
@@ -45,7 +45,7 @@ cover:
 - **出版机构**: Aldine Publishing Company, Chicago
 - **所属系列**: Social Science Research Council Committee on the Economy of China系列专著
 - **难度评估**: 中高级(学术专著,需要经济学和历史学基础知识)
-<!-- more -->
+<!--more-->
 
 ---
 

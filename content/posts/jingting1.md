@@ -1,7 +1,7 @@
 ---
 title: "学术讲座# 中国人民大学经济学院江艇:因果推断Ⅰ"
-date: 2022-09-12
-lastmod: 2022-09-12
+date "2022-09-12"
+lastmod "2022-09-12"
 author: ["QGQ"]
 
 categories:
@@ -12,7 +12,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "48526"
 draft: false
 comments: false
@@ -39,7 +39,7 @@ cover:
 - 统计推断(***statistical inference***):如何从样本数据获取总体因果关系信息,实际是一种相关性事实
 - 识别假设,实际就是对 $D$ 和 $\varepsilon$ 的关系作出表述,但这种过程是无法从理论上验证的
 
-<!-- more -->
+<!--more-->
 
 ##  **1**
 

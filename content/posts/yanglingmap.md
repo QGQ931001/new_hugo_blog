@@ -1,7 +1,7 @@
 ---
 title: "画一幅我农所在地的道路图"
-date: 5/29/2020
-lastmod: 5/29/2020
+date "2020-05-29"
+lastmod "2020-05-29"
 author: ["QGQ"]
 
 categories:
@@ -12,7 +12,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "42027"
 draft: false
 comments: false
@@ -42,7 +42,7 @@ cover:
 ```r
 download.file("https://raw.githubusercontent.com/QGQ931001/git-tutorial/master/yangling_map/yangling.json", destfile = "~/文档/yangling.json" )
 ```
-<!-- more -->
+<!--more-->
 
 ## 绘制路网地图
 导入以下R 包:

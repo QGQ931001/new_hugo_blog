@@ -1,7 +1,7 @@
 ---
 title: "Do governments crowd out governments? — 深度阅读笔记 — Baumann & Klymak"
-date: 2026-04-11
-lastmod: 2026-04-11
+date "2026-04-11"
+lastmod "2026-04-11"
 author: ["QGQ"]
 
 categories:
@@ -16,7 +16,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "baumann2024"
 draft: false
 comments: false
@@ -43,7 +43,7 @@ cover:
 - **出版年份**: 2024
 - **出版机构/期刊**: European Economic Review, Vol. 168, 104803
 - **难度评估**: 中 - 需要计量经济学基础
-<!-- more -->
+<!--more-->
 ---
 
 ## 引言(背景和意义)

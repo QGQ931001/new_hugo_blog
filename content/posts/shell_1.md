@@ -1,7 +1,7 @@
 ---
 title: "shell脚本笔记(1)"
-date: 2020-05-25 00:00:00
-lastmod: 2020-05-25 00:00:00
+date "2020-05-25"
+lastmod "2020-05-25"
 author: ["QGQ"]
 
 categories:
@@ -12,7 +12,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "2510"
 draft: false
 comments: false
@@ -52,5 +52,5 @@ echo "Hello World !"
 chmod +x ./hw.sh         #赋予执行权限
 bash hw.sh               #执行脚本
 ```
-<!-- more -->
+<!--more-->
 未完待续

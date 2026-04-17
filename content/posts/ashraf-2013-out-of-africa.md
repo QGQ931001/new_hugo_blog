@@ -1,7 +1,7 @@
 ---
 title: "走出非洲假说、人类遗传多样性与比较经济发展 _ Ashraf & Galor (2013) 笔记"
-date: 2026-04-06
-lastmod: 2026-04-06
+date "2026-04-06"
+lastmod "2026-04-06"
 author: ["QGQ"]
 
 categories:
@@ -14,7 +14,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "ashraf2013"
 draft: false
 comments: false
@@ -36,7 +36,7 @@ cover:
 
 本文是 Ashraf & Galor 2013 年的论文笔记,探讨了一个很有意思的问题:为什么全球各地的经济发展水平差异这么大?作者们从人类迁徙的历史出发,提出了一个相当有冲击力的观点_遗传多样性可能才是那个"深层根源".
 
-<!-- more -->
+<!--more-->
 
 ## 领域基础知识
 

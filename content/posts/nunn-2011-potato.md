@@ -1,7 +1,7 @@
 ---
 title: "<马铃薯与人口>深度阅读笔记 — Nunn & Qian"
-date: 2026-04-05
-lastmod: 2026-04-05
+date "2026-04-05"
+lastmod "2026-04-05"
 author: ["QGQ"]
 
 categories:
@@ -13,7 +13,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "nunn2011"
 draft: false
 comments: false
@@ -41,7 +41,7 @@ cover:
 - **出版机构/期刊**: The Quarterly Journal of Economics
 - **DOI**: 10.1093/qje/qjr009
 - **难度评估**: 高 - 需要经济学、统计学、计量史学基础
-<!-- more -->
+<!--more-->
 ---
 
 

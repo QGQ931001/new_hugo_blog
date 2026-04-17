@@ -1,7 +1,7 @@
 ---
 title: "如何在双变量Probit中使用工具变量法IV估计"
-date: 2020-05-25 00:00:00
-lastmod: 2020-05-25 00:00:00
+date "2020-05-25"
+lastmod "2020-05-25"
 author: ["QGQ"]
 
 categories:
@@ -13,7 +13,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "60676"
 draft: false
 comments: false
@@ -59,7 +59,7 @@ ml model lf mybiprobit (private:private=logptax loginc years)   (vote:vote=logpt
 ml maximize,
 matrix b=e(b)
 ```
-<!-- more -->
+<!--more-->
 
 ```stata
 capture program drop mybiprobitiv

@@ -1,7 +1,7 @@
 ---
 title: "The Economic Consequences of Hospital Admissions — 深度阅读笔记 — Dobkin et al."
-date: 2024-04-17
-lastmod: 2024-04-17
+date "2024-04-17"
+lastmod "2024-04-17"
 author: ["QGQ"]
 
 categories:
@@ -15,7 +15,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "dobkin2018"
 draft: false
 comments: false
@@ -43,7 +43,7 @@ cover:
 - **出版机构/期刊**: American Economic Review, Vol. 108, No. 2, pp. 308-352
 - **DOI**: 10.1257/aer.20161038
 - **难度评估**: 高 - 需要健康经济学、计量经济学基础
-<!-- more -->
+<!--more-->
 
 ---
 

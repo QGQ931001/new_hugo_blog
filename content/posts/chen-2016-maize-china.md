@@ -1,7 +1,7 @@
 ---
 title: "<玉米与人口>深度阅读笔记 — Chen & Kung"
-date: 2026-04-05
-lastmod: 2026-04-05
+date "2026-04-05"
+lastmod "2026-04-05"
 author: ["QGQ"]
 
 categories:
@@ -13,7 +13,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "chen2016"
 draft: false
 comments: false
@@ -41,7 +41,7 @@ cover:
 - **出版机构/期刊**: Journal of Economic Growth
 - **DOI**: 10.1007/s10887-016-9125-8
 - **难度评估**: 高 - 需要经济学、统计学、计量史学基础
-<!-- more -->
+<!--more-->
 ---
 
 ## 引言:马尔萨斯陷阱与中国

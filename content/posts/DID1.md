@@ -1,7 +1,7 @@
 ---
 title: "学术讲座# 中国人民大学经济学院江艇:渐进DID的最新进展"
-date: 2022-08-24
-lastmod: 2022-08-24
+date "2022-08-24"
+lastmod "2022-08-24"
 author: ["QGQ"]
 
 categories:
@@ -13,7 +13,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "836"
 draft: false
 comments: false
@@ -47,7 +47,7 @@ cover:
 - $ATT$:处理组接受处理后的平均处理效应
 - $D$实际可以理解为处理组的固定效应
 
-<!-- more -->
+<!--more-->
 
 ##  **1. 交错型DID(staggered DID)**
 

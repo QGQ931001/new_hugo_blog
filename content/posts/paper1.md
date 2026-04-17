@@ -1,7 +1,7 @@
 ---
 title: "文献阅读# 政策转移中的政策再生产:影响因素与模式概化"
-date: 2020-06-08
-lastmod: 2020-06-08
+date "2020-06-08"
+lastmod "2020-06-08"
 author: ["QGQ"]
 
 categories:
@@ -13,7 +13,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "32262"
 draft: false
 comments: false
@@ -43,7 +43,7 @@ cover:
 
 &nbsp;
 
-<!-- more -->
+<!--more-->
 
 
 ## **2. 问题的提出**

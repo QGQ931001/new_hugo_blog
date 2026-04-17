@@ -1,7 +1,7 @@
 ---
 title: "2014到2021年:淘宝村分布散点图\U0001F632"
-date: 2022-02-22
-lastmod: 2022-02-22
+date "2022-02-22"
+lastmod "2022-02-22"
 author: ["QGQ"]
 
 categories:
@@ -13,7 +13,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "18898"
 draft: false
 comments: false
@@ -38,7 +38,7 @@ cover:
 <img src="https://qgq931001.oss-cn-beijing.aliyuncs.com/img/20250110235354537.svg" width="80%" height="80%" align="middle" />
 <center>2014年的淘宝村分布</center>
 
-<!-- more -->
+<!--more-->
 
 <img src="https://qgq931001.oss-cn-beijing.aliyuncs.com/img/20250110235404847.svg" width="80%" height="80%" align="middle" />
 

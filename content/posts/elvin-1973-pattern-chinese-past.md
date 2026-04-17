@@ -1,7 +1,7 @@
 ---
 title: "<中国的历史之路>深度阅读笔记 — 伊懋可 Mark Elvin"
-date: 2024-04-05
-lastmod: 2024-04-05
+date "2024-04-05"
+lastmod "2024-04-05"
 author: ["QGQ"]
 
 categories:
@@ -15,7 +15,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "elvin1973"
 draft: false
 comments: false
@@ -42,7 +42,7 @@ cover:
 - **出版年份**: 1973
 - **出版机构**: Stanford University Press(斯坦福大学出版社)
 - **难度评估**: 高 - 需要经济学、历史学、计量史学基础
-<!-- more -->
+<!--more-->
 ---
 
 ## 整体评价

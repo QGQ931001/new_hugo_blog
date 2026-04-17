@@ -1,7 +1,7 @@
 ---
 title: ">-"
-date: 2020-06-06
-lastmod: 2020-06-06
+date "2020-06-06"
+lastmod "2020-06-06"
 author: ["QGQ"]
 
 categories:
@@ -13,7 +13,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "51245"
 draft: false
 comments: false
@@ -56,7 +56,7 @@ cover:
 
 &nbsp;
 
-<!-- more -->
+<!--more-->
 
 
 ## **2. 研究内容**

@@ -1,7 +1,7 @@
 ---
 title: "One Quarter of Humanity 深度阅读笔记 — James Z. Lee & Wang Feng"
-date: 2024-04-05
-lastmod: 2024-04-05
+date "2024-04-05"
+lastmod "2024-04-05"
 author: ["QGQ"]
 
 categories:
@@ -15,7 +15,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "lee2001"
 draft: false
 comments: false
@@ -44,7 +44,7 @@ cover:
 - **类型**: 人口史 / 经济史 / 比较历史学
 - **阅读时间**: 2026年4月5日
 - **难度评估**: 高(学术性强,涉及人口学、经济学、历史学、社会学交叉领域)
-<!-- more -->
+<!--more-->
 ---
 
 ## 整体评价

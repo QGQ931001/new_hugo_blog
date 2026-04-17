@@ -1,7 +1,7 @@
 ---
 title: "致Berry"
-date: 2020-05-25 00:00:00
-lastmod: 2020-05-25 00:00:00
+date "2020-05-25"
+lastmod "2020-05-25"
 author: ["QGQ"]
 
 categories:
@@ -12,7 +12,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "51392"
 draft: false
 comments: false

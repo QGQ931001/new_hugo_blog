@@ -1,7 +1,7 @@
 ---
 title: "In Harm's Way? Infrastructure Investments and the Persistence of Coastal Cities — 深度阅读笔记 — Balboni"
-date: 2026-04-15
-lastmod: 2026-04-15
+date "2026-04-15"
+lastmod "2026-04-15"
 author: ["QGQ"]
 
 categories:
@@ -16,7 +16,7 @@ tags:
 
 description: ""
 summary: ""
-weight:
+weight: 100
 slug: "balboni2025"
 draft: false
 comments: false
@@ -45,7 +45,7 @@ cover:
 - **出版机构/期刊**: American Economic Review, 115(1), 77-116
 - **DOI**: 10.1257/aer.20191943
 - **难度评估**: 高 - 需要经济学、统计学、计量经济学、空间经济学基础
-<!-- more -->
+<!--more-->
 
 ---
 
